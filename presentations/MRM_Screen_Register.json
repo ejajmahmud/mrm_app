@@ -1,0 +1,600 @@
+[
+  {
+    "file": "mobile/01_login.png",
+    "pages": [
+      8
+    ],
+    "state": "Splash/loading capture, not a completed authentication form",
+    "sha256": "4df693a1cdee3e4d08de65856eace1a95b7fab2fd18ca096baf1a34ed25ab3e6"
+  },
+  {
+    "file": "mobile/02_home.png",
+    "pages": [
+      8
+    ],
+    "state": "Splash/loading capture, not a completed authentication form",
+    "sha256": "7fc2fd2ef02dddf7566ede1a5b24397015b47ec7f2e57a50854469495500bf0f"
+  },
+  {
+    "file": "mobile/03_services.png",
+    "pages": [
+      1,
+      10
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "5814e2424c4f466cb2053caaa8ff0649a8101fe5d96700e0113d4977833a54b9"
+  },
+  {
+    "file": "mobile/04_activity.png",
+    "pages": [
+      11
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "177fba4f9a4e7075b27fa8b093ed14c68ff478ed402d2298a02125f4252f77c0"
+  },
+  {
+    "file": "mobile/05_account.png",
+    "pages": [
+      12
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "af774200d6c26206f14d71d62976bb0567fe32dbeb795203374e3917e822a01f"
+  },
+  {
+    "file": "mobile/06_help_requests.png",
+    "pages": [
+      10
+    ],
+    "state": "Services hub repeated; no help request form visible",
+    "sha256": "3240108ac5b3e6c13aec9a5eca2ddf43d8104fcd5213be1b3a4301d4e4dfc6c1"
+  },
+  {
+    "file": "mobile/07_volunteer.png",
+    "pages": [
+      49
+    ],
+    "state": "Mismatch: Gmail capture, not volunteer application",
+    "sha256": "9f243e1db123523d067218d05d6375488648384ebc637b60bd78245af72d6a54"
+  },
+  {
+    "file": "mobile/08_assignments_or_learning.png",
+    "pages": [
+      49
+    ],
+    "state": "Blank/loading capture, not a working detail screen",
+    "sha256": "396e2980dde3927ef7eb5819f62fc9920951a4878a3a3753979b9d2e4c21a3d4"
+  },
+  {
+    "file": "mobile/09_loaded_alt.png",
+    "pages": [
+      1,
+      9
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "1b05eb34609fe0c17d69bfd8a82134e583991e98a5f6c84468c634ea850201bc"
+  },
+  {
+    "file": "backend/01_login.png",
+    "pages": [
+      8
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "44598ea0c1a559b987877727929aa35afad2f08f2ecde0c782ad0997ffcc6b08"
+  },
+  {
+    "file": "backend/02_dashboard.png",
+    "pages": [
+      42
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "9884265243534cfa33fdd0cedd952f97af92e6392b2714d0b79a9014681cdfd5"
+  },
+  {
+    "file": "backend/03_categories.png",
+    "pages": [
+      41
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "cc1a39a3605d0876282cb5dbecb5f09e9013437cbf1ba2fa7a0f169f2165ce11"
+  },
+  {
+    "file": "backend/04_dua.png",
+    "pages": [
+      36
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "0b9af089923e55b30934cf0249b0b1975ff469279b056a8b91b891becf9e58f4"
+  },
+  {
+    "file": "backend/05_dhikr.png",
+    "pages": [
+      37
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "9d69065b161614603fef1edcd55ce60398610d8ccd0ba0aedb0af6fa75e0872d"
+  },
+  {
+    "file": "backend/06_sifat_names.png",
+    "pages": [
+      38
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "90e3170c88900b0eb25e4c3d675eda06d36c2bbf438bc681165d0d315f8caee5"
+  },
+  {
+    "file": "backend/07_haram_codes.png",
+    "pages": [
+      41
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "f8990195f14abec679c0e9490afafb3d3835587c81b19be33e208ecf1cdbbd40"
+  },
+  {
+    "file": "backend/08_donations.png",
+    "pages": [
+      40
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "f7a8ac094dc6b42e7b8dc377a97d5dbb7a46a2f97e0c4e063f148de5d7b92445"
+  },
+  {
+    "file": "backend/09_payment_methods.png",
+    "pages": [
+      40
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "276e52c5c0ccb8d2dba3d9fd2c001b2b516caefab1df35065a2dacfcccb992ef"
+  },
+  {
+    "file": "backend/10_prayer_times.png",
+    "pages": [
+      33
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "86bd8db58eab55c23219b8949303a6518e46acbd0647a2170152d9f1888692f0"
+  },
+  {
+    "file": "backend/11_prayer_time_import.png",
+    "pages": [
+      33
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "7aaf50043206b56ba8fc44445001f851fb3f97f6cc7c1bac7219f9f74692ae69"
+  },
+  {
+    "file": "backend/12_reciters.png",
+    "pages": [
+      49
+    ],
+    "state": "Raw API response, not an administration interface",
+    "sha256": "8f7065f6b25b89e153f3e736adb1411de3392dab126d1985100d7896435aa9ba"
+  },
+  {
+    "file": "backend/13_audio_reciters.png",
+    "pages": [
+      35
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "4ac3f36c8774f360a16bd174388343b42884186ed79beb01c92ad7e23c91b678"
+  },
+  {
+    "file": "backend/14_roles.png",
+    "pages": [
+      43
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "58e94cba376fbbb2f9ed58eae049f3be21ccbb352935dea91d44e3ee5dc6f1be"
+  },
+  {
+    "file": "backend/15_users.png",
+    "pages": [
+      43
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "1e15b472104b301135a7f906740d450ccec67cbf38cf60e5ef685f2fadf354d5"
+  },
+  {
+    "file": "backend/16_settings.png",
+    "pages": [
+      44
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "3d516ee8ce29cd89eb2de147a82441c588f91e5257540c521cbb9747d7ac9897"
+  },
+  {
+    "file": "backend/17_profile.png",
+    "pages": [
+      44
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "2ace3cb4237273203f647dec7cdc9b0395294fe40c98359e98605b9c9f42f721"
+  },
+  {
+    "file": "backend/18_support.png",
+    "pages": [
+      45
+    ],
+    "state": "Template placeholder copy requiring approved replacement",
+    "sha256": "7418389766b5afe9336b3fa94302c2cec70db0825674b52535ff4ef460ad175f"
+  },
+  {
+    "file": "backend/19_privacy_policy.png",
+    "pages": [
+      45
+    ],
+    "state": "Template placeholder copy requiring approved replacement",
+    "sha256": "c1b05ba862faa568719284dd542afb3c5336d90bf5e914a388c7610a96b189e3"
+  },
+  {
+    "file": "backend/20_terms.png",
+    "pages": [
+      45
+    ],
+    "state": "Template placeholder copy requiring approved replacement",
+    "sha256": "589ce34cc62a43423c31efd147f40b0423e9c6387df4a3795e648ce4420b5f1a"
+  },
+  {
+    "file": "mrm-admin-final/01_mrm_dashboard.png",
+    "pages": [
+      42
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "7a5145accabfa7c7279d6e9c751673ee4ada4405a4ab5efbe0458006adee9f83"
+  },
+  {
+    "file": "mrm-admin-final/02_cases_safeguarding.png",
+    "pages": [
+      18
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "97d090ac789a6077ce29610fe5f7ff647025f55740ac2d3eebd640a996f7baa2"
+  },
+  {
+    "file": "mrm-admin-final/03_volunteers_assignments.png",
+    "pages": [
+      17
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "134b8a5e6731f58ba345b2b30b068c0ba0007e6dcf711122c5949ab6570f90d7"
+  },
+  {
+    "file": "mrm-admin-final/04_volunteer_verification.png",
+    "pages": [
+      15
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "1114f0be730b5c4d1bc7f5510e002d5fef6656b4d85ffbde8b679c158e411a97"
+  },
+  {
+    "file": "mrm-admin-final/05_learning_events.png",
+    "pages": [
+      29
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "12900eecde8df34e67aec2dc199f53bfbab07e66c5367bd47a77c37ef46b991d"
+  },
+  {
+    "file": "mrm-admin-final/06_zakat_referrals.png",
+    "pages": [
+      20
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "2b14e6a523b671a748d860860a7c0d65ae9d3078beb2193cacff9a1881c03e81"
+  },
+  {
+    "file": "mrm-admin-final/07_sponsors.png",
+    "pages": [
+      30
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "297bff4eaa04b651f619af02a19729987592216249defac318243dd6960a87a6"
+  },
+  {
+    "file": "mrm-admin-final/08_notifications.png",
+    "pages": [
+      23
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "633867f68de5004db0fb9cca87b1f5c0712cdf20f3a36ef65989a1d515a92adb"
+  },
+  {
+    "file": "mrm-admin-final/09_reports.png",
+    "pages": [
+      46
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "137dd19ec10815017a463e28d638c69cddabd775e60200d7b8ad638413835475"
+  },
+  {
+    "file": "mobile-iphone17-framed/01_login.png",
+    "pages": [
+      8
+    ],
+    "state": "Splash/loading capture, not a completed authentication form",
+    "sha256": "3cae05f662fd77b7413e76780b4e45bddd0442cbd87e5668be4565b00663d7eb"
+  },
+  {
+    "file": "mobile-iphone17-framed/02_home.png",
+    "pages": [
+      8
+    ],
+    "state": "Splash/loading capture, not a completed authentication form",
+    "sha256": "3cf344bb75cbe21c0805dbe7a666efffce1cdb55f16b0c18192f7b58adfac5b8"
+  },
+  {
+    "file": "mobile-iphone17-framed/03_services.png",
+    "pages": [
+      1,
+      10
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "9c95a7c54304db467104a099ab8fe6513e4beb9e4ef6726e75f793a0d24cc545"
+  },
+  {
+    "file": "mobile-iphone17-framed/04_activity.png",
+    "pages": [
+      11
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "9a658e3b62438a6aa354c611852f0bb05b72cbd7ae2e998200e774389dc13494"
+  },
+  {
+    "file": "mobile-iphone17-framed/05_account.png",
+    "pages": [
+      12
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "dcb93b0895d2519cd6b7dfec45ff0ba0fc4f15e8a15e269a86b0f2eb82529402"
+  },
+  {
+    "file": "mobile-iphone17-framed/06_help_requests.png",
+    "pages": [
+      10
+    ],
+    "state": "Services hub repeated; no help request form visible",
+    "sha256": "d980084fae7f229ed85a3ce908289a6a354938f592cb7e28cc85896b8d0f9c3a"
+  },
+  {
+    "file": "mobile-iphone17-framed/07_volunteer.png",
+    "pages": [
+      49
+    ],
+    "state": "Mismatch: Gmail capture, not volunteer application",
+    "sha256": "86ae6fdd126e76934a06502110f49bc51c10539176e94bd3c5ab8ff61d5eee10"
+  },
+  {
+    "file": "mobile-iphone17-framed/08_assignments_or_learning.png",
+    "pages": [
+      49
+    ],
+    "state": "Blank/loading capture, not a working detail screen",
+    "sha256": "2684a5a4d4381e84aee940baf28b7cdaabfe4c43ab80b5e766431c5f86e1b8cb"
+  },
+  {
+    "file": "mobile-iphone17-framed/09_loaded_alt.png",
+    "pages": [
+      1,
+      9
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "cdbfc0bea7ae4d5f79a4b902141b407215f80941ce31599775a267ccdfaa36b4"
+  },
+  {
+    "file": "mobile-iphone17-viewport/01_login.png",
+    "pages": [
+      8
+    ],
+    "state": "Splash/loading capture, not a completed authentication form",
+    "sha256": "71589aea93dcd0db97629b90ea1267208ebd409bac8e0e7b465aa801ddd7515a"
+  },
+  {
+    "file": "mobile-iphone17-viewport/02_home.png",
+    "pages": [
+      8
+    ],
+    "state": "Splash/loading capture, not a completed authentication form",
+    "sha256": "601570547c47bda121cbb17aed0f0a55709687bc0b4a0d680bfb828c16f1bf8c"
+  },
+  {
+    "file": "mobile-iphone17-viewport/03_services.png",
+    "pages": [
+      1,
+      10
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "ee0795a6fe1e68522fffdc624193b0b047865b59bd5cfe58002c12f8824b232b"
+  },
+  {
+    "file": "mobile-iphone17-viewport/04_activity.png",
+    "pages": [
+      11
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "e003bbce175e12fdb6419fb603f0bafb223b04c728b539b22ca47977e2a9952a"
+  },
+  {
+    "file": "mobile-iphone17-viewport/05_account.png",
+    "pages": [
+      12
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "9bc8ee997ab14d96c0b72447ddb15ceb59de3aee17bcbc66bc8a0321444524f2"
+  },
+  {
+    "file": "mobile-iphone17-viewport/06_help_requests.png",
+    "pages": [
+      10
+    ],
+    "state": "Services hub repeated; no help request form visible",
+    "sha256": "d3ffc9aa4738e2fdb0a5d3909b6488e3f53d507a521884ad313d120e0636b748"
+  },
+  {
+    "file": "mobile-iphone17-viewport/07_volunteer.png",
+    "pages": [
+      49
+    ],
+    "state": "Mismatch: Gmail capture, not volunteer application",
+    "sha256": "4947d947eddf7243d308b87d3da07394d600c142bbc3fc27019772a2fc7edac1"
+  },
+  {
+    "file": "mobile-iphone17-viewport/08_assignments_or_learning.png",
+    "pages": [
+      49
+    ],
+    "state": "Blank/loading capture, not a working detail screen",
+    "sha256": "9a6b79c6e06c4184e2f6418e04c86b2c93f0158a15f6ed1278a4ba34ee8aa555"
+  },
+  {
+    "file": "mobile-iphone17-viewport/09_loaded_alt.png",
+    "pages": [
+      1,
+      9
+    ],
+    "state": "Provided capture; interface evidence only",
+    "sha256": "f4da65e59b19acc79d8a2c7df0ef009750f4d89f522c85473577b520d6f87139"
+  },
+  {
+    "file": "mrm-admin/01_mrm_dashboard.png",
+    "pages": [
+      42
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "21a7931c48470066d0e1ccabdf6dab5c723fe1288083c6c43263bd5568664eb4"
+  },
+  {
+    "file": "mrm-admin/02_cases_safeguarding.png",
+    "pages": [
+      18
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "21a7931c48470066d0e1ccabdf6dab5c723fe1288083c6c43263bd5568664eb4"
+  },
+  {
+    "file": "mrm-admin/03_volunteers_assignments.png",
+    "pages": [
+      17
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "21a7931c48470066d0e1ccabdf6dab5c723fe1288083c6c43263bd5568664eb4"
+  },
+  {
+    "file": "mrm-admin/04_volunteer_verification.png",
+    "pages": [
+      15
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "21a7931c48470066d0e1ccabdf6dab5c723fe1288083c6c43263bd5568664eb4"
+  },
+  {
+    "file": "mrm-admin/05_learning_events.png",
+    "pages": [
+      29
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "21a7931c48470066d0e1ccabdf6dab5c723fe1288083c6c43263bd5568664eb4"
+  },
+  {
+    "file": "mrm-admin/06_zakat_referrals.png",
+    "pages": [
+      20
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "21a7931c48470066d0e1ccabdf6dab5c723fe1288083c6c43263bd5568664eb4"
+  },
+  {
+    "file": "mrm-admin/07_sponsors.png",
+    "pages": [
+      30
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "21a7931c48470066d0e1ccabdf6dab5c723fe1288083c6c43263bd5568664eb4"
+  },
+  {
+    "file": "mrm-admin/08_notifications.png",
+    "pages": [
+      23
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "21a7931c48470066d0e1ccabdf6dab5c723fe1288083c6c43263bd5568664eb4"
+  },
+  {
+    "file": "mrm-admin/09_reports.png",
+    "pages": [
+      46
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "21a7931c48470066d0e1ccabdf6dab5c723fe1288083c6c43263bd5568664eb4"
+  },
+  {
+    "file": "mrm-admin-real/01_mrm_dashboard.png",
+    "pages": [
+      42
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "94e3a613e7247125c12abe375cf42873d5cc0efe44a99a986ab30c4ad5fb830d"
+  },
+  {
+    "file": "mrm-admin-real/02_cases_safeguarding.png",
+    "pages": [
+      18
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "94e3a613e7247125c12abe375cf42873d5cc0efe44a99a986ab30c4ad5fb830d"
+  },
+  {
+    "file": "mrm-admin-real/03_volunteers_assignments.png",
+    "pages": [
+      17
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "94e3a613e7247125c12abe375cf42873d5cc0efe44a99a986ab30c4ad5fb830d"
+  },
+  {
+    "file": "mrm-admin-real/04_volunteer_verification.png",
+    "pages": [
+      15
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "94e3a613e7247125c12abe375cf42873d5cc0efe44a99a986ab30c4ad5fb830d"
+  },
+  {
+    "file": "mrm-admin-real/05_learning_events.png",
+    "pages": [
+      29
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "94e3a613e7247125c12abe375cf42873d5cc0efe44a99a986ab30c4ad5fb830d"
+  },
+  {
+    "file": "mrm-admin-real/06_zakat_referrals.png",
+    "pages": [
+      20
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "94e3a613e7247125c12abe375cf42873d5cc0efe44a99a986ab30c4ad5fb830d"
+  },
+  {
+    "file": "mrm-admin-real/07_sponsors.png",
+    "pages": [
+      30
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "94e3a613e7247125c12abe375cf42873d5cc0efe44a99a986ab30c4ad5fb830d"
+  },
+  {
+    "file": "mrm-admin-real/08_notifications.png",
+    "pages": [
+      23
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "94e3a613e7247125c12abe375cf42873d5cc0efe44a99a986ab30c4ad5fb830d"
+  },
+  {
+    "file": "mrm-admin-real/09_reports.png",
+    "pages": [
+      46
+    ],
+    "state": "Duplicate / preliminary export; not used as module evidence",
+    "sha256": "94e3a613e7247125c12abe375cf42873d5cc0efe44a99a986ab30c4ad5fb830d"
+  }
+]
