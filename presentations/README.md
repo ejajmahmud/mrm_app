@@ -1,5 +1,8 @@
 # MRM Digital Community Platform
 
+**Latest detailed rebuild:** [72-page strategic presentation and 52 individual feature maps](strategic-rebuild/README.md), using the corrected 48-image MVP set.
+
+
 **Updated edition:** [58-page deck with eight feature-connectivity mind maps](connectivity/README.md). Includes editable PowerPoint, PDF, PNG and SVG diagrams.
 
 A 50-page platform presentation for all Muslims, with dedicated MRM revert-support services.

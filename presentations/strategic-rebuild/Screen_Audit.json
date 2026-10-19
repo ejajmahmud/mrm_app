@@ -1,0 +1,482 @@
+[
+  {
+    "id": "01",
+    "file": "01-splash-iphone-17-pro-max.png",
+    "actual_visible_content": "Brand / loading screen",
+    "main_deck_page": 66,
+    "disposition": "Used once",
+    "finding": "Brand/loading state; verification, source-sync and audit language is not independently validated.",
+    "source_sha256": "2847e97bff15be1b23f8024962a516c2d3c7c9bfe11ff7f420b44985502dfa64",
+    "content_region_sha256": "51fe58d6ae13ece068b6782f082fc4dbcbbae85757733d3a4c2bd8424d66871b"
+  },
+  {
+    "id": "02",
+    "file": "02-onboarding-iphone-17-pro-max.png",
+    "actual_visible_content": "Onboarding \u00b7 care pillar",
+    "main_deck_page": 6,
+    "disposition": "Used once",
+    "finding": "Onboarding pillar 1: care and mentorship. Service hours, shelter and kit promises need operating approval.",
+    "source_sha256": "93f48dcef5520c6e69b5acdfa5798595ad14948402363a69f574ebf13851c5a3",
+    "content_region_sha256": "079e3aaf21eeccf6b6ca33e5eff0cefbd05bed86b6671a963c9088cec69e607d"
+  },
+  {
+    "id": "03",
+    "file": "03-welcome-iphone-17-pro-max.png",
+    "actual_visible_content": "Welcome and guest entry",
+    "main_deck_page": 6,
+    "disposition": "Used once",
+    "finding": "Welcome / guest entry. Volunteer counts, aid totals and audit badges are illustrative.",
+    "source_sha256": "eedb8284feeef363bb13230c4da2d77b5709754d440d9abc46f1a3b6ca797d64",
+    "content_region_sha256": "9939103fe5bab0b87370e4a63111999933d638d46140f190837d41b8130a8e44"
+  },
+  {
+    "id": "04",
+    "file": "04-signup-iphone-17-pro-max.png",
+    "actual_visible_content": "Registration \u00b7 participation tracks",
+    "main_deck_page": 7,
+    "disposition": "Used once",
+    "finding": "Track selection at registration is not completed volunteer / teacher approval.",
+    "source_sha256": "0a50bd866ca55137e4d3308f2381e8667aad177325a8eeccc5ea6f77abf6a531",
+    "content_region_sha256": "17bd289ad2eae5971d3f4a85bf41a5a4ce4917c037bdee0592dacaf19aca8fce"
+  },
+  {
+    "id": "05",
+    "file": "05-login-iphone-17-pro-max.png",
+    "actual_visible_content": "Sign-in form",
+    "main_deck_page": 8,
+    "disposition": "Used once",
+    "finding": "Sign-in, recovery and biometric controls are visible; authentication and biometric execution were not tested.",
+    "source_sha256": "e963280ce6c12c1cc067db9f3d9a07b017a6295cb0a8c1be4ba9fd1cfa7f3f66",
+    "content_region_sha256": "ddece7550eaa3be7a0d82fa2fa76325b574b56c94d0715687812f476dea11a51"
+  },
+  {
+    "id": "06",
+    "file": "06-home-iphone-17-pro-max.png",
+    "actual_visible_content": "Admin Ops Home",
+    "main_deck_page": 10,
+    "disposition": "Used once",
+    "finding": "Admin Ops role state with utilities; not the ordinary member home or proof of live operations.",
+    "source_sha256": "36b88a1c013d5e5dfad7936bee9d1b517e05850f5a28ee76a7d6ae68205fee02",
+    "content_region_sha256": "aa19856cc2e0dc52f818005c18b4994500571cdfd67b16b01505235b32da1054"
+  },
+  {
+    "id": "07",
+    "file": "07-menu-iphone-17-pro-max.png",
+    "actual_visible_content": "Menu and utility directory",
+    "main_deck_page": 67,
+    "disposition": "Used once",
+    "finding": "Utility menu also includes development helpers. The framework text does not establish delivered architecture.",
+    "source_sha256": "be99b29da1c0c8a2081a311fc3f8ba33528fa3f4adb1cb44e8c792c2d69939f4",
+    "content_region_sha256": "fcc83219411d1ec2d2865c07e4c8e714d89c45476ae7f9166de36add273d518d"
+  },
+  {
+    "id": "08",
+    "file": "08-dashboard-iphone-17-pro-max.png",
+    "actual_visible_content": "Analytics + calculator concept",
+    "main_deck_page": 47,
+    "disposition": "Used once",
+    "finding": "Analytics plus income/savings estimate; not case-tracking evidence. Amounts, targets and authority wording unverified.",
+    "source_sha256": "282e754c6195c4244c19a2ff53c38ca572acdd1be02c3f33f3795fd93ef845b2",
+    "content_region_sha256": "077977ce11f641b7e181fc747ec712b7de21df15dadc9b8c19e197f94b586ea8"
+  },
+  {
+    "id": "09",
+    "file": "09-search-iphone-17-pro-max.png",
+    "actual_visible_content": "Search: utilities and local places",
+    "main_deck_page": 11,
+    "disposition": "Used once",
+    "finding": "Search explicitly includes Quran, duas, ingredient references and mosques. Not proof of approved volunteer-map access.",
+    "source_sha256": "df08183446535aa449cbf7688f3fbb52db0521df479b6ed22f1921be60662f21",
+    "content_region_sha256": "8ae31e817c0796572c72ca90a8d2715946806f5c9532b860d0e3122ef25d7eb4"
+  },
+  {
+    "id": "10",
+    "file": "10-catalog-iphone-17-pro-max.png",
+    "actual_visible_content": "Infaq & Relief Campaigns",
+    "main_deck_page": 57,
+    "disposition": "Used once",
+    "finding": "Relief campaign list, not retail marketplace. Fundraising, tax and impact claims require approval.",
+    "source_sha256": "c63a3537c6049aa34562978ec01bd22fc42d7396c8943b114f556c4cdf2b3e23",
+    "content_region_sha256": "16e6f40c38a86bac18c025769bc569185c633fe1af6815681aa1d4d06b205471"
+  },
+  {
+    "id": "11",
+    "file": "11-product_detail-iphone-17-pro-max.png",
+    "actual_visible_content": "Campaign detail \u00b7 Overview",
+    "main_deck_page": 58,
+    "disposition": "Used once",
+    "finding": "Campaign Overview tab, not a commercial product checkout. Delivery and authority claims unverified.",
+    "source_sha256": "43d1f437a5b22cefb0a074af039aec75fb92f565d48e3cc451763940487c2aa2",
+    "content_region_sha256": "38699c313b4614a8c044ed557f32f6d0149326ec9e7d5938da288f532d2de93a"
+  },
+  {
+    "id": "12",
+    "file": "12-profile-iphone-17-pro-max.png",
+    "actual_visible_content": "Profile / role summary",
+    "main_deck_page": 9,
+    "disposition": "Used once",
+    "finding": "Profile and six demo personas; server role approval and clearance are not demonstrated.",
+    "source_sha256": "b84c1255d2505d0cf9e24009936ec1db3ff16feb1055f56976af70b0383635bc",
+    "content_region_sha256": "8e47ff374347d90ef327d3f4650102cbc124e5663aceeabe74a3f5aaa116f2cf"
+  },
+  {
+    "id": "13",
+    "file": "13-settings-iphone-17-pro-max.png",
+    "actual_visible_content": "Settings, zone, lock and cache",
+    "main_deck_page": 49,
+    "disposition": "Used once",
+    "finding": "Settings include zone, adhan, cache, disguise and lock controls. Toggles do not prove their behaviour.",
+    "source_sha256": "59b6cade84283caba009cd6e8ee09ca7222dd5e88a109bab46fe2bf48b13950d",
+    "content_region_sha256": "ae201e02e647d8455829313e35d3bb900bbee76d007fb162557372eda802683d"
+  },
+  {
+    "id": "14",
+    "file": "14-calendar_booking-iphone-17-pro-max.png",
+    "actual_visible_content": "Halaqa & duty calendar",
+    "main_deck_page": 40,
+    "disposition": "Used once",
+    "finding": "Calendar combines programme and duty slots; it does not prove registered attendance or operational delivery.",
+    "source_sha256": "3ed5a839eb0e4bd2f6bf93efddad0b1d741de3e3cb51016b985aae21dc8a4390",
+    "content_region_sha256": "fe93be1659a96e9bb9fa4e38247a82bdc0f93a41a41d412ccb030f36f1c9c9d6"
+  },
+  {
+    "id": "15",
+    "file": "15-feed-iphone-17-pro-max.png",
+    "actual_visible_content": "Dawah & Impact Feed",
+    "main_deck_page": 41,
+    "disposition": "Used once",
+    "finding": "Community feed with example dispatches and stories. Outcomes and implied verification are not evidence.",
+    "source_sha256": "36ecca5cf19b4d7e4882c92d4b83c85bfbb3633a42bdd0332d0af6b7eb6d77ac",
+    "content_region_sha256": "8dd3019ea5ad23334101ac479ff02d4a180f9c741b6d9a0d9433bcc224d328a7"
+  },
+  {
+    "id": "16",
+    "file": "16-chat-iphone-17-pro-max.png",
+    "actual_visible_content": "Caseworker conversation",
+    "main_deck_page": 31,
+    "disposition": "Used once",
+    "finding": "Assigned caseworker conversation; encryption, voice playback, calls and ETA claims are not tested.",
+    "source_sha256": "e85cd39db1693cc1b822ce82fecfae31475153acd6ece79c66430425f5b6c034",
+    "content_region_sha256": "392d3197fb85109c2ab94ff4a1a4ff0adfa4937b0d61302941a3b8e55e7cdc21"
+  },
+  {
+    "id": "17",
+    "file": "17-cart-iphone-17-pro-max.png",
+    "actual_visible_content": "Sadaqah & Infaq Allocation",
+    "main_deck_page": 60,
+    "disposition": "Used once",
+    "finding": "Sadaqah/Infaq purpose allocation, not a retail cart. Example total is not a teacher plan price.",
+    "source_sha256": "f654406539ad2bf523c30c117397b60353529237ca51c5d1748ee012871bcd94",
+    "content_region_sha256": "5f6659cd6e0d96aa1bd257337dfb54d00839002d4aba1eb60e1b80b4d53ce218"
+  },
+  {
+    "id": "18",
+    "file": "18-checkout-iphone-17-pro-max.png",
+    "actual_visible_content": "Payment form \u00b7 not reproduced",
+    "main_deck_page": null,
+    "disposition": "Excluded",
+    "finding": "Withheld: payment form contains a full identity number plus personal details. Gateway and tax claims unverified.",
+    "source_sha256": "ec80cfd3ce2049c44ef9391de81cd9ec5ed963c0db98691e8999aed11035555b",
+    "content_region_sha256": "bab09d8a3bf819d49a47e72d925dec6798a3c9527e07495ee26dd6e77f1df300"
+  },
+  {
+    "id": "19",
+    "file": "19-notifications-iphone-17-pro-max.png",
+    "actual_visible_content": "In-app notification list",
+    "main_deck_page": 44,
+    "disposition": "Used once",
+    "finding": "In-app notifications. Tax receipt and dispatch examples are not live-event evidence or safe lock-screen payloads.",
+    "source_sha256": "e96dff3dbd0f783ef16892a3a823ccde53e03ad72bbbadd4806cabcee319c65a",
+    "content_region_sha256": "5e6314008d28399e89faadf181290cb9c8a830e6e7240007497de353fa3722c7"
+  },
+  {
+    "id": "20",
+    "file": "20-empty_loading_error-iphone-17-pro-max.png",
+    "actual_visible_content": "Loading-state skeleton",
+    "main_deck_page": 50,
+    "disposition": "Used once",
+    "finding": "Loading is the selected state; this file alone does not demonstrate empty/error behaviour.",
+    "source_sha256": "b691857a222329e86c400af2430e6d1805fa4a78d5eede34a3c63f12eebccd5a",
+    "content_region_sha256": "1c8f529cb3c03c0d4ec20fbff74fd2148da8ea943afb24d6f7bcdbf2e5e31e39"
+  },
+  {
+    "id": "21",
+    "file": "21-utility_waqt-iphone-17-pro-max.png",
+    "actual_visible_content": "Waqt, fasting and prayer windows",
+    "main_deck_page": 12,
+    "disposition": "Used once",
+    "finding": "Waqt/fasting/prayer-window view; time conventions, religious guidance and source-sync wording need review.",
+    "source_sha256": "608adabd96d6f2da1ad0e4d7ecbfe8409c38de78ace3755583706dfda1e408ab",
+    "content_region_sha256": "3c9b6b7a2da01ce5976742e6a498b5395e4a0f37d1eae1772fa08014494459b5"
+  },
+  {
+    "id": "22",
+    "file": "22-utility_tracker-iphone-17-pro-max.png",
+    "actual_visible_content": "Private Salah / Qaza tracker",
+    "main_deck_page": 13,
+    "disposition": "Used once",
+    "finding": "Private personal Salah log with sample counts. It must not become a public faith score or volunteer rank.",
+    "source_sha256": "b06ec9c444fb0e72bf3d353b2610b4c83bc52e55f7fb9073c36c77811c0f1752",
+    "content_region_sha256": "7361965e56962f9a47b2f5fc397ba898e0599d2138fc7a3b9c025f28eed605a0"
+  },
+  {
+    "id": "23",
+    "file": "23-utility_qibla-iphone-17-pro-max.png",
+    "actual_visible_content": "Compass simulation + place list",
+    "main_deck_page": 14,
+    "disposition": "Used once",
+    "finding": "A simulation slider is visible. A compass drawing and distance list do not validate GPS, sensors or 3D navigation.",
+    "source_sha256": "3be082047638fa44c8632809efde7f84db2c88792bb089fd2007f478c8b48754",
+    "content_region_sha256": "d77c13c8bac0291c6ea11d88a509e9e1c2ffc83317e4dee70914df74347ad52f"
+  },
+  {
+    "id": "24",
+    "file": "24-utility_quran-iphone-17-pro-max.png",
+    "actual_visible_content": "Al-Fatihah text / reciter controls",
+    "main_deck_page": 15,
+    "disposition": "Used once",
+    "finding": "Reader shows Al-Fatihah while a Ya-Sin tab says Selected. Describe the visible verses and resolve tab consistency.",
+    "source_sha256": "91afd8a800bc0cb84d8dacbcb70064c651f4332bb61375ab56d91fa614ce9059",
+    "content_region_sha256": "b93582f90cdc19c789c5f2d001689f579029bea256f9fe9bb7f794c9c50c2650"
+  },
+  {
+    "id": "25",
+    "file": "25-utility_tasbih-iphone-17-pro-max.png",
+    "actual_visible_content": "Digital tasbih counter",
+    "main_deck_page": 16,
+    "disposition": "Used once",
+    "finding": "Selected phrase, counter, lap and total display are visible; counter persistence and semantics need testing.",
+    "source_sha256": "fb65b79273e56118ee1e13caee8c530193abaaa1143ae6c750979d7f5e422da6",
+    "content_region_sha256": "8371499b01d0b59c56dab5ab17d540b9460563bad5ba5fe7fcb78aacc492d356"
+  },
+  {
+    "id": "26",
+    "file": "26-utility_dua-iphone-17-pro-max.png",
+    "actual_visible_content": "Dua categories and references",
+    "main_deck_page": 17,
+    "disposition": "Used once",
+    "finding": "Dua categories with references and recitation controls; a cited hadith does not demonstrate a separate Hadith reader.",
+    "source_sha256": "fd3007f8047b49c2fe3b5b713c34b28b187c6691c9e52ea3f79d0121191bc095",
+    "content_region_sha256": "b67d96eb224d526877ec2649136f12377a56ead442a4e70569b2d4b5a5ad10a0"
+  },
+  {
+    "id": "27",
+    "file": "27-utility_salah_guide-iphone-17-pro-max.png",
+    "actual_visible_content": "Salah guide \u00b7 posture 1 of 7",
+    "main_deck_page": 19,
+    "disposition": "Used once",
+    "finding": "Only posture 1 of 7 is shown. Other postures and pronunciation behaviour were not inspected in runtime.",
+    "source_sha256": "75eca84c007f2205985733dff6100f739e5d2128d58f09963e1ed871cf91602b",
+    "content_region_sha256": "d670bbfb39d4f30005eeaf9cb014199795513540acfc8cd9d9c5196b9c2e9af1"
+  },
+  {
+    "id": "28",
+    "file": "28-utility_sifat-iphone-17-pro-max.png",
+    "actual_visible_content": "Asma-ul-Husna names / meanings",
+    "main_deck_page": 20,
+    "disposition": "Used once",
+    "finding": "Asma-ul-Husna names and meanings, not a Hadith reader or proof of source approval.",
+    "source_sha256": "586fd6158eb917b2dd34e521ff1af401428f5771b0aa0628c60aa91d6d758774",
+    "content_region_sha256": "63cc9190d0fb03e5f0b34905da4915b1348ec6a088776f68b94adb40f000c96b"
+  },
+  {
+    "id": "29",
+    "file": "29-utility_halal-iphone-17-pro-max.png",
+    "actual_visible_content": "Ingredient reference + Fitrah concept",
+    "main_deck_page": 21,
+    "disposition": "Used once",
+    "finding": "Two functions share the view: Fitrah/Fidyah estimate and ingredient-reference list. Rates and classifications need review.",
+    "source_sha256": "dd209b46a96891bcbcaf6a280b9f2642a7938c551d76ea6cd7a160a4c46ebcd0",
+    "content_region_sha256": "91d44dbebf61ec9f3241802fe77c446b066881e89799afae741e14fe47f832f8"
+  },
+  {
+    "id": "30",
+    "file": "30-role_volunteer-iphone-17-pro-max.png",
+    "actual_visible_content": "Volunteer on-duty workspace",
+    "main_deck_page": 27,
+    "disposition": "Used once",
+    "finding": "Volunteer on-duty role view; GPS Verified and dispatch indicators are sample UI, not tested matching or location.",
+    "source_sha256": "c52e5452dbba9519ffeb6c4d20e6fb1b60b5aeec71b615ad86377afe80b1250c",
+    "content_region_sha256": "dfa4b623faa21314d0f0876d1d984bdc5097a1972375dd106363ecaff2994c9b"
+  },
+  {
+    "id": "31",
+    "file": "31-role_seeker-iphone-17-pro-max.png",
+    "actual_visible_content": "Seeker workspace",
+    "main_deck_page": 24,
+    "disposition": "Used once",
+    "finding": "Seeker role view; care-line availability, complimentary kits and confidentiality require operating and technical checks.",
+    "source_sha256": "0478d3ccdeb4881a32163efcde6254d1b4c4e70803de640ca89497e1b61b8155",
+    "content_region_sha256": "565b47a9ceaddbb30d7c6a3d255a524bff7f6b7f468d54b54ca9f1d77f33cbe2"
+  },
+  {
+    "id": "32",
+    "file": "32-role_teacher-iphone-17-pro-max.png",
+    "actual_visible_content": "Scholar / Mentor roster",
+    "main_deck_page": 39,
+    "disposition": "Used once",
+    "finding": "Scholar/Mentor roster with Start Room control; not a subscription, teacher-approval or working video-conference screen.",
+    "source_sha256": "890affd35fea88ba5948cc21a16f036615d4c07ecd3f5985d897a5ad511388a7",
+    "content_region_sha256": "2796bcf333c05a95b59c9f4911d66a0aeabc596734aac5b313fc682279113004"
+  },
+  {
+    "id": "33",
+    "file": "33-role_applicant-iphone-17-pro-max.png",
+    "actual_visible_content": "Applicant verification progress",
+    "main_deck_page": 25,
+    "disposition": "Used once",
+    "finding": "Applicant progress includes police-clearance wording; agreed document review and interview remain separate policy requirements.",
+    "source_sha256": "77d981fdb8e1fcee6de1c1ba1207de5d8fc134a8748d2ad84292316ca3fa0296",
+    "content_region_sha256": "6f166062f09545e228e79b902138b87656b870e4ae7d2fa71e28f510503fde87"
+  },
+  {
+    "id": "34",
+    "file": "34-role_member-iphone-17-pro-max.png",
+    "actual_visible_content": "Member workspace",
+    "main_deck_page": 10,
+    "disposition": "Used once",
+    "finding": "Member role view retains utilities and a sample campaign. Broad Muslim access is retained without a teacher paywall.",
+    "source_sha256": "faf6d08870996995e4b6f06c2d271d48bbd02774dd5c6cfaabb6a2435bc10d35",
+    "content_region_sha256": "c468914e6794ac8d723d2884f6aaffc989e87d8088730d66d428590e493a54ec"
+  },
+  {
+    "id": "35",
+    "file": "35-onboarding_slide2-iphone-17-pro-max.png",
+    "actual_visible_content": "Onboarding \u00b7 welfare / aid pillar",
+    "main_deck_page": 61,
+    "disposition": "Used once",
+    "finding": "Onboarding pillar 2 describes welfare, fundraising and tax claims; it is not a payment form or authority approval.",
+    "source_sha256": "853c544df54cb0481a597002aedca57649b8213543b542892ce9a596f11052b9",
+    "content_region_sha256": "3b8fd703227ae4f8435781e953284f358443fd383bac1c13a5944954b903aeac"
+  },
+  {
+    "id": "36",
+    "file": "36-onboarding_slide3-iphone-17-pro-max.png",
+    "actual_visible_content": "Onboarding \u00b7 volunteer pillar",
+    "main_deck_page": 53,
+    "disposition": "Used once",
+    "finding": "Onboarding pillar 3 describes volunteering. Dispatch, source accuracy and encryption claims remain unverified.",
+    "source_sha256": "52c18555ef00e746ca2afe82e4a1b8249481f46b86f8d600d11bd10a1e61e934",
+    "content_region_sha256": "5a69d2a91b7bfefd156db79f17ebace88fe909a139fd1ad5ff8ba19c60214156"
+  },
+  {
+    "id": "37",
+    "file": "37-product_provisions-iphone-17-pro-max.png",
+    "actual_visible_content": "Campaign detail \u00b7 Provisions",
+    "main_deck_page": 58,
+    "disposition": "Used once",
+    "finding": "Provisions tab is distinct from Overview; it lists intended kit contents, not verified delivery.",
+    "source_sha256": "440390ae1bb8e9d7d508139c049cccfc13f47ffa0c8c6b6810db123b43b9155f",
+    "content_region_sha256": "0ac87ec45716fef33803983f01eb14e06412d87f84e83fedeb5ba6bb1bc87a97"
+  },
+  {
+    "id": "38",
+    "file": "38-product_impact-iphone-17-pro-max.png",
+    "actual_visible_content": "Campaign detail \u00b7 sample Impact",
+    "main_deck_page": 59,
+    "disposition": "Used once",
+    "finding": "Impact tab has sample named testimonials and Verified badges. No testimonial was independently confirmed.",
+    "source_sha256": "e367a0a4d19603b6da663b7fd1367c189df2cf375220a1b1963c818142698c9c",
+    "content_region_sha256": "9e1940bac097a6b235b23580efc004788454b42fc31971a7821c9ac766d36306"
+  },
+  {
+    "id": "39",
+    "file": "39-calendar_almanac-iphone-17-pro-max.png",
+    "actual_visible_content": "Calendar almanac / prayer schedule",
+    "main_deck_page": 22,
+    "disposition": "Used once",
+    "finding": "Calendar almanac is a distinct selected tab with prayer/fasting detail, not a duplicate of the booking list.",
+    "source_sha256": "0a8ed0a5e5e920072bca383d9a6ac875bd97fae37ffc0b4224ee2fe34f5b3be3",
+    "content_region_sha256": "9b25c032a4ab0fba5561c81aa4ebfe6e07b9f5591f59f5f687ea6f8fd4251264"
+  },
+  {
+    "id": "40",
+    "file": "40-calendar_confirm_modal-iphone-17-pro-max.png",
+    "actual_visible_content": "Slot-confirmation modal",
+    "main_deck_page": 40,
+    "disposition": "Used once",
+    "finding": "Slot-confirmation modal is a UI state, not proof of persistent registration or attendance.",
+    "source_sha256": "e40b84add0e276fd5a302e7baa63685482f5bb2e97dd8cf1342e5d7a7ba7c23c",
+    "content_region_sha256": "30cb17e3aefae68056418e7c068e26b8f43b437b4155c52db4b74e003f67e019"
+  },
+  {
+    "id": "41",
+    "file": "41-feed_composer-iphone-17-pro-max.png",
+    "actual_visible_content": "Community-post composer",
+    "main_deck_page": 41,
+    "disposition": "Used once",
+    "finding": "Community composer is visible; no independent moderation queue, publication permissions or storage is demonstrated.",
+    "source_sha256": "7b0511d6edf4ee2db4a0708539c0d7dc9f84904088afca3fcc2e90364e2ac101",
+    "content_region_sha256": "9a6fb0fd81651c980d871e337f518d34dcbe1c6c94772ebe638c83680c1b1c90"
+  },
+  {
+    "id": "42",
+    "file": "42-checkout_receipt-iphone-17-pro-max.png",
+    "actual_visible_content": "Receipt concept \u00b7 not reproduced",
+    "main_deck_page": null,
+    "disposition": "Excluded",
+    "finding": "Withheld: receipt concept includes the same full identity number and personal details. No transfer or lawful receipt verified.",
+    "source_sha256": "e801b0fd91f97a8393f7379eafb9103a87f2a8f63d6c53ce9d01d4c5cf108808",
+    "content_region_sha256": "4aa59a82b3273c2882d0bd8741b8bd8b796a9bbd8f2bd9a853783c3cb6892357"
+  },
+  {
+    "id": "43",
+    "file": "43-state_empty-iphone-17-pro-max.png",
+    "actual_visible_content": "Empty-state panel",
+    "main_deck_page": 51,
+    "disposition": "Used once",
+    "finding": "Empty panel is visible. Wording that all dispatches are complete cannot be inferred from an empty query.",
+    "source_sha256": "82bffe4548a97b401ea4156b1d842c2aaf053920c57de66a0e10675ee97130a5",
+    "content_region_sha256": "85244edc1ca6dd42f343a425869accba302ab8343f7834dd54e411141430d18c"
+  },
+  {
+    "id": "44",
+    "file": "44-state_error-iphone-17-pro-max.png",
+    "actual_visible_content": "Network-error panel",
+    "main_deck_page": 52,
+    "disposition": "Used once",
+    "finding": "Network-error state is visible. Cached Quran/prayer availability remains a claim requiring a real offline test.",
+    "source_sha256": "fd35d76f11b18c6838556d364de95ae55ebce8e6d8507efadbdd4aacdf6271ab",
+    "content_region_sha256": "f8f2b1c5b19b994524ec138451d2058afc6f88810b5a98c6999a9013cc18b9fa"
+  },
+  {
+    "id": "45",
+    "file": "45-modal_role_picker-iphone-17-pro-max.png",
+    "actual_visible_content": "Role-picker modal",
+    "main_deck_page": 9,
+    "disposition": "Used once",
+    "finding": "Role-picker modal is distinct from Profile; changing a persona must not grant server permissions.",
+    "source_sha256": "245ba4e3e9153e5e830d3bb312943f2178ea4d96e0453bda016a70cf66629e74",
+    "content_region_sha256": "36635c877f131a3f5dc40b8bf9bae67027a734ccc9208f95bb169429d78cdae6"
+  },
+  {
+    "id": "46",
+    "file": "46-modal_navigator-iphone-17-pro-max.png",
+    "actual_visible_content": "Screen-directory modal",
+    "main_deck_page": 67,
+    "disposition": "Used once",
+    "finding": "Directory lists 20 base screens. The 48 files include role, tab, modal and theme states, not 48 independent modules.",
+    "source_sha256": "29749b608af228aae2af3d5e82f7447e818cb2cdd547cab8c31bc74d1eaac37a",
+    "content_region_sha256": "a75ec17589b7fe998dc6081d5d114b43016362b8f282172afcc883c6fa2b74c6"
+  },
+  {
+    "id": "47",
+    "file": "47-modal_android_apk-iphone-17-pro-max.png",
+    "actual_visible_content": "Developer installation help \u00b7 excluded",
+    "main_deck_page": null,
+    "disposition": "Excluded",
+    "finding": "Excluded from feature imagery: development installation instructions. Not evidence of native release or framework approval.",
+    "source_sha256": "b9f8eabf6167a2f6aca6d585211432e13849b705de183e9b8a6fbd0a3a943141",
+    "content_region_sha256": "c823a274e377e80fe4713ceed5b4fcd67ac6c52f8bb0da2a784cf916d786b135"
+  },
+  {
+    "id": "48",
+    "file": "48-home_dark_mode-iphone-17-pro-max.png",
+    "actual_visible_content": "Admin Home \u00b7 dark-theme state",
+    "main_deck_page": 1,
+    "disposition": "Used once",
+    "finding": "A distinct dark-theme Home state. Used to explain theme preference, not counted as another operational module.",
+    "source_sha256": "bb3d5b4d18e0c38bc07541c5a58ad3d3cd2c8f7e0c8235bb87d5cd5ef9352bef",
+    "content_region_sha256": "9a3655eb237049e3faf97f178396ad487b0f9192204aa85505062848ffbd2fa2"
+  }
+]

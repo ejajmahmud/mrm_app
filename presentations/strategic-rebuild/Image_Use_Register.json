@@ -1,0 +1,272 @@
+[
+  {
+    "page": 1,
+    "screen": "48",
+    "file": "48-home_dark_mode-iphone-17-pro-max.png",
+    "actual_content": "Admin Home \u00b7 dark-theme state"
+  },
+  {
+    "page": 6,
+    "screen": "02",
+    "file": "02-onboarding-iphone-17-pro-max.png",
+    "actual_content": "Onboarding \u00b7 care pillar"
+  },
+  {
+    "page": 6,
+    "screen": "03",
+    "file": "03-welcome-iphone-17-pro-max.png",
+    "actual_content": "Welcome and guest entry"
+  },
+  {
+    "page": 7,
+    "screen": "04",
+    "file": "04-signup-iphone-17-pro-max.png",
+    "actual_content": "Registration \u00b7 participation tracks"
+  },
+  {
+    "page": 8,
+    "screen": "05",
+    "file": "05-login-iphone-17-pro-max.png",
+    "actual_content": "Sign-in form"
+  },
+  {
+    "page": 9,
+    "screen": "12",
+    "file": "12-profile-iphone-17-pro-max.png",
+    "actual_content": "Profile / role summary"
+  },
+  {
+    "page": 9,
+    "screen": "45",
+    "file": "45-modal_role_picker-iphone-17-pro-max.png",
+    "actual_content": "Role-picker modal"
+  },
+  {
+    "page": 10,
+    "screen": "06",
+    "file": "06-home-iphone-17-pro-max.png",
+    "actual_content": "Admin Ops Home"
+  },
+  {
+    "page": 10,
+    "screen": "34",
+    "file": "34-role_member-iphone-17-pro-max.png",
+    "actual_content": "Member workspace"
+  },
+  {
+    "page": 11,
+    "screen": "09",
+    "file": "09-search-iphone-17-pro-max.png",
+    "actual_content": "Search: utilities and local places"
+  },
+  {
+    "page": 12,
+    "screen": "21",
+    "file": "21-utility_waqt-iphone-17-pro-max.png",
+    "actual_content": "Waqt, fasting and prayer windows"
+  },
+  {
+    "page": 13,
+    "screen": "22",
+    "file": "22-utility_tracker-iphone-17-pro-max.png",
+    "actual_content": "Private Salah / Qaza tracker"
+  },
+  {
+    "page": 14,
+    "screen": "23",
+    "file": "23-utility_qibla-iphone-17-pro-max.png",
+    "actual_content": "Compass simulation + place list"
+  },
+  {
+    "page": 15,
+    "screen": "24",
+    "file": "24-utility_quran-iphone-17-pro-max.png",
+    "actual_content": "Al-Fatihah text / reciter controls"
+  },
+  {
+    "page": 16,
+    "screen": "25",
+    "file": "25-utility_tasbih-iphone-17-pro-max.png",
+    "actual_content": "Digital tasbih counter"
+  },
+  {
+    "page": 17,
+    "screen": "26",
+    "file": "26-utility_dua-iphone-17-pro-max.png",
+    "actual_content": "Dua categories and references"
+  },
+  {
+    "page": 19,
+    "screen": "27",
+    "file": "27-utility_salah_guide-iphone-17-pro-max.png",
+    "actual_content": "Salah guide \u00b7 posture 1 of 7"
+  },
+  {
+    "page": 20,
+    "screen": "28",
+    "file": "28-utility_sifat-iphone-17-pro-max.png",
+    "actual_content": "Asma-ul-Husna names / meanings"
+  },
+  {
+    "page": 21,
+    "screen": "29",
+    "file": "29-utility_halal-iphone-17-pro-max.png",
+    "actual_content": "Ingredient reference + Fitrah concept"
+  },
+  {
+    "page": 22,
+    "screen": "39",
+    "file": "39-calendar_almanac-iphone-17-pro-max.png",
+    "actual_content": "Calendar almanac / prayer schedule"
+  },
+  {
+    "page": 24,
+    "screen": "31",
+    "file": "31-role_seeker-iphone-17-pro-max.png",
+    "actual_content": "Seeker workspace"
+  },
+  {
+    "page": 25,
+    "screen": "33",
+    "file": "33-role_applicant-iphone-17-pro-max.png",
+    "actual_content": "Applicant verification progress"
+  },
+  {
+    "page": 27,
+    "screen": "30",
+    "file": "30-role_volunteer-iphone-17-pro-max.png",
+    "actual_content": "Volunteer on-duty workspace"
+  },
+  {
+    "page": 31,
+    "screen": "16",
+    "file": "16-chat-iphone-17-pro-max.png",
+    "actual_content": "Caseworker conversation"
+  },
+  {
+    "page": 39,
+    "screen": "32",
+    "file": "32-role_teacher-iphone-17-pro-max.png",
+    "actual_content": "Scholar / Mentor roster"
+  },
+  {
+    "page": 40,
+    "screen": "14",
+    "file": "14-calendar_booking-iphone-17-pro-max.png",
+    "actual_content": "Halaqa & duty calendar"
+  },
+  {
+    "page": 40,
+    "screen": "40",
+    "file": "40-calendar_confirm_modal-iphone-17-pro-max.png",
+    "actual_content": "Slot-confirmation modal"
+  },
+  {
+    "page": 41,
+    "screen": "15",
+    "file": "15-feed-iphone-17-pro-max.png",
+    "actual_content": "Dawah & Impact Feed"
+  },
+  {
+    "page": 41,
+    "screen": "41",
+    "file": "41-feed_composer-iphone-17-pro-max.png",
+    "actual_content": "Community-post composer"
+  },
+  {
+    "page": 44,
+    "screen": "19",
+    "file": "19-notifications-iphone-17-pro-max.png",
+    "actual_content": "In-app notification list"
+  },
+  {
+    "page": 47,
+    "screen": "08",
+    "file": "08-dashboard-iphone-17-pro-max.png",
+    "actual_content": "Analytics + calculator concept"
+  },
+  {
+    "page": 49,
+    "screen": "13",
+    "file": "13-settings-iphone-17-pro-max.png",
+    "actual_content": "Settings, zone, lock and cache"
+  },
+  {
+    "page": 50,
+    "screen": "20",
+    "file": "20-empty_loading_error-iphone-17-pro-max.png",
+    "actual_content": "Loading-state skeleton"
+  },
+  {
+    "page": 51,
+    "screen": "43",
+    "file": "43-state_empty-iphone-17-pro-max.png",
+    "actual_content": "Empty-state panel"
+  },
+  {
+    "page": 52,
+    "screen": "44",
+    "file": "44-state_error-iphone-17-pro-max.png",
+    "actual_content": "Network-error panel"
+  },
+  {
+    "page": 53,
+    "screen": "36",
+    "file": "36-onboarding_slide3-iphone-17-pro-max.png",
+    "actual_content": "Onboarding \u00b7 volunteer pillar"
+  },
+  {
+    "page": 57,
+    "screen": "10",
+    "file": "10-catalog-iphone-17-pro-max.png",
+    "actual_content": "Infaq & Relief Campaigns"
+  },
+  {
+    "page": 58,
+    "screen": "11",
+    "file": "11-product_detail-iphone-17-pro-max.png",
+    "actual_content": "Campaign detail \u00b7 Overview"
+  },
+  {
+    "page": 58,
+    "screen": "37",
+    "file": "37-product_provisions-iphone-17-pro-max.png",
+    "actual_content": "Campaign detail \u00b7 Provisions"
+  },
+  {
+    "page": 59,
+    "screen": "38",
+    "file": "38-product_impact-iphone-17-pro-max.png",
+    "actual_content": "Campaign detail \u00b7 sample Impact"
+  },
+  {
+    "page": 60,
+    "screen": "17",
+    "file": "17-cart-iphone-17-pro-max.png",
+    "actual_content": "Sadaqah & Infaq Allocation"
+  },
+  {
+    "page": 61,
+    "screen": "35",
+    "file": "35-onboarding_slide2-iphone-17-pro-max.png",
+    "actual_content": "Onboarding \u00b7 welfare / aid pillar"
+  },
+  {
+    "page": 66,
+    "screen": "01",
+    "file": "01-splash-iphone-17-pro-max.png",
+    "actual_content": "Brand / loading screen"
+  },
+  {
+    "page": 67,
+    "screen": "07",
+    "file": "07-menu-iphone-17-pro-max.png",
+    "actual_content": "Menu and utility directory"
+  },
+  {
+    "page": 67,
+    "screen": "46",
+    "file": "46-modal_navigator-iphone-17-pro-max.png",
+    "actual_content": "Screen-directory modal"
+  }
+]

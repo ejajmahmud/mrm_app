@@ -1,0 +1,34 @@
+{
+  "MRM_Strategic_Platform_72_Pages": {
+    "pages": 72,
+    "navigation_links": 844,
+    "missing_native_text": 0,
+    "out_of_bounds": 0,
+    "media_files": 48,
+    "duplicate_media_files": 0
+  },
+  "MRM_Detailed_Feature_Atlas_52_Maps": {
+    "pages": 52,
+    "navigation_links": 676,
+    "missing_native_text": 0,
+    "out_of_bounds": 0,
+    "media_files": 3,
+    "duplicate_media_files": 0
+  },
+  "feature_diagrams": {
+    "individual_maps": 52,
+    "local_feature_nodes": 312,
+    "labelled_relationships": 289,
+    "node_overlaps": 0,
+    "node_text_overflows": 0,
+    "edges_through_unrelated_nodes": 0
+  },
+  "screenshots": {
+    "reviewed": 48,
+    "used_once": 45,
+    "excluded_identity_data": 2,
+    "excluded_development_only": 1,
+    "withdrawn_zip_used": false,
+    "display_resolution": "900px wide, original proportions and transparency"
+  }
+}

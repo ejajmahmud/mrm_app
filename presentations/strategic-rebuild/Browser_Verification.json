@@ -1,0 +1,8 @@
+{
+  "features_selected": 52,
+  "nodes_per_map": 6,
+  "cross_feature_navigation": "passed",
+  "search": "passed",
+  "javascript_errors": [],
+  "method": "Chromium Playwright, offline HTML set_content"
+}
