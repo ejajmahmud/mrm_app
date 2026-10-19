@@ -1,5 +1,7 @@
 # MRM Digital Community Platform
 
+**Updated edition:** [58-page deck with eight feature-connectivity mind maps](connectivity/README.md). Includes editable PowerPoint, PDF, PNG and SVG diagrams.
+
 A 50-page platform presentation for all Muslims, with dedicated MRM revert-support services.
 
 ## Downloads

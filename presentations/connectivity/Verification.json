@@ -1,0 +1,26 @@
+{
+  "MRM_Connected_Platform_58_Pages": {
+    "pages": 58,
+    "internal_links": 450,
+    "text_missing": 0,
+    "out_of_bounds": 0
+  },
+  "MRM_Feature_Connectivity_8_Maps": {
+    "pages": 8,
+    "internal_links": 8,
+    "text_missing": 0,
+    "out_of_bounds": 0
+  },
+  "geometry": {
+    "node_overlaps": 0,
+    "edges_through_unrelated_nodes": 0,
+    "maps": 8,
+    "nodes": 60,
+    "relations": 51
+  },
+  "exports": {
+    "png_diagrams": 8,
+    "svg_diagrams": 8,
+    "master_poster_pages": 1
+  }
+}

@@ -1,0 +1,1683 @@
+[
+  {
+    "page": 51,
+    "title": "The complete platform, connected",
+    "nodes": {
+      "hub": {
+        "x": 6.22,
+        "y": 4.35,
+        "w": 3.56,
+        "h": 1.48,
+        "title": "MRM PLATFORM",
+        "body": "For all Muslims\nShared identity \u2022 safe access",
+        "detail_page": null,
+        "color": "62DAE8"
+      },
+      "faith": {
+        "x": 0.7,
+        "y": 2.58,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Daily Islamic practice",
+        "body": "Prayer \u2022 Qibla \u2022 mosques \u2022 Quran\nDua \u2022 dhikr \u2022 hadith \u2022 Hijri / Ramadan\nInformational zakat estimate",
+        "detail_page": 32,
+        "color": "E8C578"
+      },
+      "learn": {
+        "x": 10.5,
+        "y": 2.58,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Learning & teachers",
+        "body": "Teacher approval \u2022 posts \u2022 teaching ads\nClasses \u2022 recordings \u2022 events\nTeacher-only publishing subscriptions",
+        "detail_page": 24,
+        "color": "C2A3FF"
+      },
+      "care": {
+        "x": 0.7,
+        "y": 4.44,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Care & volunteering",
+        "body": "Help requests \u2022 matching \u2022 assignments\nVerification \u2022 interview \u2022 gender rules\nNearby discovery \u2022 badges / ranks",
+        "detail_page": 13,
+        "color": "8DD8B1"
+      },
+      "private": {
+        "x": 10.5,
+        "y": 4.44,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Confidential support & zakat",
+        "body": "Restricted faith / family cases\nConsent \u2022 referral \u2022 partner follow-up\nAuthority decides zakat outcomes",
+        "detail_page": 18,
+        "color": "8DD8B1"
+      },
+      "public": {
+        "x": 0.7,
+        "y": 6.2,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Website & sponsors",
+        "body": "Public information \u2022 participation routes\nApproved resources \u2022 sponsor recognition\nScheduled app / website placements",
+        "detail_page": 31,
+        "color": "62DAE8"
+      },
+      "ops": {
+        "x": 10.5,
+        "y": 6.2,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "MRM operations",
+        "body": "Accounts \u2022 moderation \u2022 configurations\nAlerts \u2022 activity \u2022 audit \u2022 reports\nPrivacy \u2022 backups \u2022 restricted exports",
+        "detail_page": 42,
+        "color": "62DAE8"
+      }
+    },
+    "edges": [
+      {
+        "source": "hub",
+        "target": "faith",
+        "meaning": "capability branch",
+        "points": [
+          [
+            6.22,
+            5.09
+          ],
+          [
+            5.85,
+            5.09
+          ],
+          [
+            5.85,
+            3.3200000000000003
+          ],
+          [
+            5.5,
+            3.3200000000000003
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "hub",
+        "target": "care",
+        "meaning": "capability branch",
+        "points": [
+          [
+            6.22,
+            5.09
+          ],
+          [
+            5.85,
+            5.09
+          ],
+          [
+            5.85,
+            5.180000000000001
+          ],
+          [
+            5.5,
+            5.180000000000001
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "hub",
+        "target": "public",
+        "meaning": "capability branch",
+        "points": [
+          [
+            6.22,
+            5.09
+          ],
+          [
+            5.85,
+            5.09
+          ],
+          [
+            5.85,
+            6.94
+          ],
+          [
+            5.5,
+            6.94
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "hub",
+        "target": "learn",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.78,
+            5.09
+          ],
+          [
+            10.15,
+            5.09
+          ],
+          [
+            10.15,
+            3.3200000000000003
+          ],
+          [
+            10.5,
+            3.3200000000000003
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "hub",
+        "target": "private",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.78,
+            5.09
+          ],
+          [
+            10.15,
+            5.09
+          ],
+          [
+            10.15,
+            5.180000000000001
+          ],
+          [
+            10.5,
+            5.180000000000001
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "hub",
+        "target": "ops",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.78,
+            5.09
+          ],
+          [
+            10.15,
+            5.09
+          ],
+          [
+            10.15,
+            6.94
+          ],
+          [
+            10.5,
+            6.94
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      }
+    ]
+  },
+  {
+    "page": 52,
+    "title": "One Muslim user, many ways to participate",
+    "nodes": {
+      "person": {
+        "x": 6.2,
+        "y": 4.25,
+        "w": 3.6,
+        "h": 1.65,
+        "title": "ALL MUSLIM USERS",
+        "body": "Daily value \u2022 community care\nAccount for personal services",
+        "detail_page": null,
+        "color": "62DAE8"
+      },
+      "practice": {
+        "x": 0.7,
+        "y": 2.6,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Practise daily",
+        "body": "Prayer, Quran and remembrance\nLocation choices for relevant tools",
+        "detail_page": 32,
+        "color": "E8C578"
+      },
+      "learning": {
+        "x": 10.5,
+        "y": 2.6,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Discover & learn",
+        "body": "Approved programmes and teachers\nRegister where required; revisit recordings",
+        "detail_page": 24,
+        "color": "C2A3FF"
+      },
+      "help": {
+        "x": 0.7,
+        "y": 4.45,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Seek support",
+        "body": "Private request, safe contact preference\nTrack only your authorised case details",
+        "detail_page": 13,
+        "color": "8DD8B1"
+      },
+      "volunteer": {
+        "x": 10.5,
+        "y": 4.45,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Contribute as a volunteer",
+        "body": "Evidence + interview + MRM approval\nEligible offers and assigned service",
+        "detail_page": 15,
+        "color": "8DD8B1"
+      },
+      "updates": {
+        "x": 0.7,
+        "y": 6.2,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Follow personal updates",
+        "body": "Application / request status and reminders\nSafe alerts open the authorised detail",
+        "detail_page": 11,
+        "color": "62DAE8"
+      },
+      "teacher": {
+        "x": 10.5,
+        "y": 6.2,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Teach through the platform",
+        "body": "Teacher approval + valid plan entitlement\nSubmit educational content for review",
+        "detail_page": 25,
+        "color": "C2A3FF"
+      }
+    },
+    "edges": [
+      {
+        "source": "person",
+        "target": "practice",
+        "meaning": "capability branch",
+        "points": [
+          [
+            6.2,
+            5.075
+          ],
+          [
+            5.85,
+            5.075
+          ],
+          [
+            5.85,
+            3.34
+          ],
+          [
+            5.5,
+            3.34
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "person",
+        "target": "help",
+        "meaning": "capability branch",
+        "points": [
+          [
+            6.2,
+            5.075
+          ],
+          [
+            5.85,
+            5.075
+          ],
+          [
+            5.85,
+            5.19
+          ],
+          [
+            5.5,
+            5.19
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "person",
+        "target": "updates",
+        "meaning": "capability branch",
+        "points": [
+          [
+            6.2,
+            5.075
+          ],
+          [
+            5.85,
+            5.075
+          ],
+          [
+            5.85,
+            6.94
+          ],
+          [
+            5.5,
+            6.94
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "person",
+        "target": "learning",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.8,
+            5.075
+          ],
+          [
+            10.15,
+            5.075
+          ],
+          [
+            10.15,
+            3.34
+          ],
+          [
+            10.5,
+            3.34
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "person",
+        "target": "volunteer",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.8,
+            5.075
+          ],
+          [
+            10.15,
+            5.075
+          ],
+          [
+            10.15,
+            5.19
+          ],
+          [
+            10.5,
+            5.19
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      },
+      {
+        "source": "person",
+        "target": "teacher",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.8,
+            5.075
+          ],
+          [
+            10.15,
+            5.075
+          ],
+          [
+            10.15,
+            6.94
+          ],
+          [
+            10.5,
+            6.94
+          ]
+        ],
+        "dashed": false,
+        "directional": false
+      }
+    ]
+  },
+  {
+    "page": 53,
+    "title": "How care, volunteering and recognition connect",
+    "nodes": {
+      "request": {
+        "x": 0.7,
+        "y": 2.66,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Member request",
+        "body": "Need, urgency and safe contact",
+        "detail_page": 13,
+        "color": "8DD8B1"
+      },
+      "triage": {
+        "x": 4.55,
+        "y": 2.66,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "MRM triage",
+        "body": "Review sensitivity and suitability",
+        "detail_page": 14,
+        "color": "62DAE8"
+      },
+      "sensitive": {
+        "x": 8.4,
+        "y": 2.66,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Restricted concern",
+        "body": "Private faith / family intake",
+        "detail_page": 18,
+        "color": "E8C578"
+      },
+      "staff": {
+        "x": 12.25,
+        "y": 2.66,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Designated personnel",
+        "body": "Controlled advice and follow-up",
+        "detail_page": 19,
+        "color": "E8C578"
+      },
+      "approved": {
+        "x": 0.7,
+        "y": 4.47,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Approved volunteer",
+        "body": "Active status and permitted service",
+        "detail_page": 15,
+        "color": "8DD8B1"
+      },
+      "match": {
+        "x": 4.55,
+        "y": 4.47,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Eligible matching",
+        "body": "Area, category, language, gender",
+        "detail_page": 14,
+        "color": "62DAE8"
+      },
+      "assign": {
+        "x": 8.4,
+        "y": 4.47,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Confirmed assignment",
+        "body": "Seeker / coordinator confirmation",
+        "detail_page": 17,
+        "color": "62DAE8"
+      },
+      "close": {
+        "x": 12.25,
+        "y": 4.47,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Progress & closure",
+        "body": "Verified outcome; escalation if needed",
+        "detail_page": 17,
+        "color": "8DD8B1"
+      },
+      "apply": {
+        "x": 0.7,
+        "y": 6.28,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Evidence & interview",
+        "body": "Evidence and MRM decision",
+        "detail_page": 15,
+        "color": "8DD8B1"
+      },
+      "oversee": {
+        "x": 4.55,
+        "y": 6.28,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Coordinator oversight",
+        "body": "Reassign or follow up unanswered work",
+        "detail_page": 18,
+        "color": "62DAE8"
+      },
+      "activity": {
+        "x": 8.4,
+        "y": 6.28,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Alerts & activity",
+        "body": "Only authorised status / action",
+        "detail_page": 23,
+        "color": "62DAE8"
+      },
+      "rank": {
+        "x": 12.25,
+        "y": 6.28,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Service recognition",
+        "body": "MRM criteria; correction / appeal",
+        "detail_page": 21,
+        "color": "E8C578"
+      }
+    },
+    "edges": [
+      {
+        "source": "request",
+        "target": "triage",
+        "meaning": "submit",
+        "points": [
+          [
+            3.75,
+            3.2750000000000004
+          ],
+          [
+            4.55,
+            3.2750000000000004
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "triage",
+        "target": "sensitive",
+        "meaning": "private",
+        "points": [
+          [
+            7.6,
+            3.2750000000000004
+          ],
+          [
+            8.4,
+            3.2750000000000004
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "sensitive",
+        "target": "staff",
+        "meaning": "assign",
+        "points": [
+          [
+            11.45,
+            3.2750000000000004
+          ],
+          [
+            12.25,
+            3.2750000000000004
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "triage",
+        "target": "match",
+        "meaning": "routine",
+        "points": [
+          [
+            6.074999999999999,
+            3.89
+          ],
+          [
+            6.074999999999999,
+            4.47
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "apply",
+        "target": "approved",
+        "meaning": "verify",
+        "points": [
+          [
+            2.2249999999999996,
+            6.28
+          ],
+          [
+            2.2249999999999996,
+            5.699999999999999
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "approved",
+        "target": "match",
+        "meaning": "eligible",
+        "points": [
+          [
+            3.75,
+            5.085
+          ],
+          [
+            4.55,
+            5.085
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "match",
+        "target": "assign",
+        "meaning": "offer",
+        "points": [
+          [
+            7.6,
+            5.085
+          ],
+          [
+            8.4,
+            5.085
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "assign",
+        "target": "close",
+        "meaning": "serve",
+        "points": [
+          [
+            11.45,
+            5.085
+          ],
+          [
+            12.25,
+            5.085
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "match",
+        "target": "oversee",
+        "meaning": "no response",
+        "points": [
+          [
+            6.074999999999999,
+            5.699999999999999
+          ],
+          [
+            6.074999999999999,
+            6.28
+          ]
+        ],
+        "dashed": true,
+        "directional": true
+      },
+      {
+        "source": "assign",
+        "target": "activity",
+        "meaning": "updates",
+        "points": [
+          [
+            9.925,
+            5.699999999999999
+          ],
+          [
+            9.925,
+            6.28
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "close",
+        "target": "rank",
+        "meaning": "verify credit",
+        "points": [
+          [
+            13.775,
+            5.699999999999999
+          ],
+          [
+            13.775,
+            6.28
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      }
+    ]
+  },
+  {
+    "page": 54,
+    "title": "From approved teacher to trusted learning",
+    "nodes": {
+      "apply": {
+        "x": 0.7,
+        "y": 2.66,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Teacher application",
+        "body": "Credentials, subjects and evidence",
+        "detail_page": 25,
+        "color": "C2A3FF"
+      },
+      "approval": {
+        "x": 4.55,
+        "y": 2.66,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "MRM teacher approval",
+        "body": "Authorised professional role",
+        "detail_page": 25,
+        "color": "C2A3FF"
+      },
+      "plan": {
+        "x": 8.4,
+        "y": 2.66,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Select teacher plan",
+        "body": "MRM terms; applicable store billing",
+        "detail_page": 27,
+        "color": "C2A3FF"
+      },
+      "entitlement": {
+        "x": 12.25,
+        "y": 2.66,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Verified entitlement",
+        "body": "Active paid / configured free plan",
+        "detail_page": 28,
+        "color": "62DAE8"
+      },
+      "published": {
+        "x": 0.7,
+        "y": 4.47,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Approved publication",
+        "body": "Posts, teaching ads and programmes",
+        "detail_page": 26,
+        "color": "8DD8B1"
+      },
+      "moderation": {
+        "x": 4.55,
+        "y": 4.47,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "MRM moderation",
+        "body": "Approve, return, schedule or withdraw",
+        "detail_page": 26,
+        "color": "8DD8B1"
+      },
+      "submission": {
+        "x": 8.4,
+        "y": 4.47,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Teacher submission",
+        "body": "Content, class proposal or recording",
+        "detail_page": 26,
+        "color": "C2A3FF"
+      },
+      "allowance": {
+        "x": 12.25,
+        "y": 4.47,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Publishing allowance",
+        "body": "Apply active plan limits",
+        "detail_page": 27,
+        "color": "C2A3FF"
+      },
+      "discover": {
+        "x": 0.7,
+        "y": 6.28,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Learner discovery",
+        "body": "Topic, language and teacher",
+        "detail_page": 24,
+        "color": "62DAE8"
+      },
+      "details": {
+        "x": 4.55,
+        "y": 6.28,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Programme & access",
+        "body": "Details and registration rules",
+        "detail_page": 29,
+        "color": "62DAE8"
+      },
+      "attend": {
+        "x": 8.4,
+        "y": 6.28,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Live class / event",
+        "body": "Reminder and permitted session access",
+        "detail_page": 29,
+        "color": "62DAE8"
+      },
+      "revisit": {
+        "x": 12.25,
+        "y": 6.28,
+        "w": 3.05,
+        "h": 1.23,
+        "title": "Approved recordings",
+        "body": "Continue learning after the session",
+        "detail_page": 24,
+        "color": "62DAE8"
+      }
+    },
+    "edges": [
+      {
+        "source": "apply",
+        "target": "approval",
+        "meaning": "capability branch",
+        "points": [
+          [
+            3.75,
+            3.2750000000000004
+          ],
+          [
+            4.55,
+            3.2750000000000004
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "approval",
+        "target": "plan",
+        "meaning": "capability branch",
+        "points": [
+          [
+            7.6,
+            3.2750000000000004
+          ],
+          [
+            8.4,
+            3.2750000000000004
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "plan",
+        "target": "entitlement",
+        "meaning": "capability branch",
+        "points": [
+          [
+            11.45,
+            3.2750000000000004
+          ],
+          [
+            12.25,
+            3.2750000000000004
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "entitlement",
+        "target": "allowance",
+        "meaning": "enables",
+        "points": [
+          [
+            13.775,
+            3.89
+          ],
+          [
+            13.775,
+            4.47
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "allowance",
+        "target": "submission",
+        "meaning": "capability branch",
+        "points": [
+          [
+            12.25,
+            5.085
+          ],
+          [
+            11.45,
+            5.085
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "submission",
+        "target": "moderation",
+        "meaning": "capability branch",
+        "points": [
+          [
+            8.4,
+            5.085
+          ],
+          [
+            7.6,
+            5.085
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "moderation",
+        "target": "published",
+        "meaning": "capability branch",
+        "points": [
+          [
+            4.55,
+            5.085
+          ],
+          [
+            3.75,
+            5.085
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "published",
+        "target": "discover",
+        "meaning": "publish",
+        "points": [
+          [
+            2.2249999999999996,
+            5.699999999999999
+          ],
+          [
+            2.2249999999999996,
+            6.28
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "discover",
+        "target": "details",
+        "meaning": "capability branch",
+        "points": [
+          [
+            3.75,
+            6.8950000000000005
+          ],
+          [
+            4.55,
+            6.8950000000000005
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "details",
+        "target": "attend",
+        "meaning": "capability branch",
+        "points": [
+          [
+            7.6,
+            6.8950000000000005
+          ],
+          [
+            8.4,
+            6.8950000000000005
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "attend",
+        "target": "revisit",
+        "meaning": "capability branch",
+        "points": [
+          [
+            11.45,
+            6.8950000000000005
+          ],
+          [
+            12.25,
+            6.8950000000000005
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "moderation",
+        "target": "submission",
+        "meaning": "return for revision",
+        "points": [
+          [
+            6.074999999999999,
+            5.699999999999999
+          ],
+          [
+            6.075,
+            6.03
+          ],
+          [
+            9.925,
+            6.03
+          ],
+          [
+            9.925,
+            5.699999999999999
+          ]
+        ],
+        "dashed": true,
+        "directional": true
+      }
+    ]
+  },
+  {
+    "page": 55,
+    "title": "Daily utilities connect through approved inputs",
+    "nodes": {
+      "location": {
+        "x": 0.7,
+        "y": 2.87,
+        "w": 3.7,
+        "h": 1.2,
+        "title": "Location or manual area",
+        "body": "Consent and device capability",
+        "detail_page": 12,
+        "color": "62DAE8"
+      },
+      "local": {
+        "x": 5.1,
+        "y": 2.87,
+        "w": 4.3,
+        "h": 1.2,
+        "title": "Local prayer & map settings",
+        "body": "Local times, direction and place sources",
+        "detail_page": 33,
+        "color": "62DAE8"
+      },
+      "practice": {
+        "x": 10.2,
+        "y": 2.87,
+        "w": 5.1,
+        "h": 1.2,
+        "title": "Prayer \u2022 Qibla \u2022 nearby mosques",
+        "body": "Useful daily guidance; permission handling",
+        "detail_page": 34,
+        "color": "E8C578"
+      },
+      "sources": {
+        "x": 0.7,
+        "y": 4.59,
+        "w": 3.7,
+        "h": 1.2,
+        "title": "Religious sources & rights",
+        "body": "Approved references and translations",
+        "detail_page": 41,
+        "color": "C2A3FF"
+      },
+      "content": {
+        "x": 5.1,
+        "y": 4.59,
+        "w": 4.3,
+        "h": 1.2,
+        "title": "Reviewed content library",
+        "body": "Quran text / recitation and utility content",
+        "detail_page": 35,
+        "color": "C2A3FF"
+      },
+      "remembrance": {
+        "x": 10.2,
+        "y": 4.59,
+        "w": 5.1,
+        "h": 1.2,
+        "title": "Quran \u2022 dua \u2022 dhikr \u2022 hadith",
+        "body": "Connect practice to approved learning",
+        "detail_page": 36,
+        "color": "C2A3FF"
+      },
+      "conventions": {
+        "x": 0.7,
+        "y": 6.31,
+        "w": 3.7,
+        "h": 1.2,
+        "title": "Calendar / zakat sources",
+        "body": "MRM-approved local conventions",
+        "detail_page": 39,
+        "color": "8DD8B1"
+      },
+      "configuration": {
+        "x": 5.1,
+        "y": 6.31,
+        "w": 4.3,
+        "h": 1.2,
+        "title": "Display & calculation rules",
+        "body": "Source review; local adjustment policy",
+        "detail_page": 40,
+        "color": "8DD8B1"
+      },
+      "seasonal": {
+        "x": 10.2,
+        "y": 6.31,
+        "w": 5.1,
+        "h": 1.2,
+        "title": "Hijri \u2022 Ramadan \u2022 zakat estimate",
+        "body": "Guidance only; referral is a separate service",
+        "detail_page": 39,
+        "color": "8DD8B1"
+      }
+    },
+    "edges": [
+      {
+        "source": "location",
+        "target": "local",
+        "meaning": "capability branch",
+        "points": [
+          [
+            4.4,
+            3.47
+          ],
+          [
+            5.1,
+            3.47
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "local",
+        "target": "practice",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.399999999999999,
+            3.47
+          ],
+          [
+            10.2,
+            3.47
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "sources",
+        "target": "content",
+        "meaning": "capability branch",
+        "points": [
+          [
+            4.4,
+            5.1899999999999995
+          ],
+          [
+            5.1,
+            5.1899999999999995
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "content",
+        "target": "remembrance",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.399999999999999,
+            5.1899999999999995
+          ],
+          [
+            10.2,
+            5.1899999999999995
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "conventions",
+        "target": "configuration",
+        "meaning": "capability branch",
+        "points": [
+          [
+            4.4,
+            6.909999999999999
+          ],
+          [
+            5.1,
+            6.909999999999999
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "configuration",
+        "target": "seasonal",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.399999999999999,
+            6.909999999999999
+          ],
+          [
+            10.2,
+            6.909999999999999
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      }
+    ]
+  },
+  {
+    "page": 56,
+    "title": "Confidential support and zakat: controlled handoffs",
+    "nodes": {
+      "intake": {
+        "x": 0.7,
+        "y": 3.42,
+        "w": 3.7,
+        "h": 1.3,
+        "title": "Private concern",
+        "body": "Safe contact and permitted information",
+        "detail_page": 18,
+        "color": "E8C578"
+      },
+      "restricted": {
+        "x": 5.1,
+        "y": 3.42,
+        "w": 4.3,
+        "h": 1.3,
+        "title": "Designated MRM review",
+        "body": "Private queue and appropriate assignment",
+        "detail_page": 18,
+        "color": "E8C578"
+      },
+      "adviser": {
+        "x": 10.2,
+        "y": 3.42,
+        "w": 5.1,
+        "h": 1.3,
+        "title": "Authorised guidance & follow-up",
+        "body": "Controlled closure or permitted referral",
+        "detail_page": 19,
+        "color": "E8C578"
+      },
+      "enquiry": {
+        "x": 0.7,
+        "y": 5.58,
+        "w": 3.7,
+        "h": 1.3,
+        "title": "Enquiry + referral consent",
+        "body": "Need, region and safe contact preference",
+        "detail_page": 20,
+        "color": "8DD8B1"
+      },
+      "review": {
+        "x": 5.1,
+        "y": 5.58,
+        "w": 4.3,
+        "h": 1.3,
+        "title": "MRM completeness review",
+        "body": "Approved forms, sharing method and contact",
+        "detail_page": 20,
+        "color": "8DD8B1"
+      },
+      "authority": {
+        "x": 10.2,
+        "y": 5.58,
+        "w": 5.1,
+        "h": 1.3,
+        "title": "Zakat authority handoff",
+        "body": "Authority decides eligibility and disbursement",
+        "detail_page": 20,
+        "color": "8DD8B1"
+      }
+    },
+    "edges": [
+      {
+        "source": "intake",
+        "target": "restricted",
+        "meaning": "capability branch",
+        "points": [
+          [
+            4.4,
+            4.07
+          ],
+          [
+            5.1,
+            4.07
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "restricted",
+        "target": "adviser",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.399999999999999,
+            4.07
+          ],
+          [
+            10.2,
+            4.07
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "enquiry",
+        "target": "review",
+        "meaning": "capability branch",
+        "points": [
+          [
+            4.4,
+            6.23
+          ],
+          [
+            5.1,
+            6.23
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "review",
+        "target": "authority",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.399999999999999,
+            6.23
+          ],
+          [
+            10.2,
+            6.23
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      }
+    ]
+  },
+  {
+    "page": 57,
+    "title": "MRM operations connect content, revenue and oversight",
+    "nodes": {
+      "operations": {
+        "x": 6.22,
+        "y": 4.35,
+        "w": 3.56,
+        "h": 1.48,
+        "title": "MRM OPERATIONS",
+        "body": "Duty-based staff access\nConfigure \u2022 review \u2022 record",
+        "detail_page": 42,
+        "color": "62DAE8"
+      },
+      "public": {
+        "x": 0.7,
+        "y": 2.58,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Public website & discovery",
+        "body": "Approved pages, resources and events\nVolunteer / teacher / support entry routes",
+        "detail_page": 31,
+        "color": "62DAE8"
+      },
+      "sponsor": {
+        "x": 10.5,
+        "y": 2.58,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Sponsors & placements",
+        "body": "Approved assets + start / end dates\nApp / website recognition; aggregate metrics",
+        "detail_page": 30,
+        "color": "E8C578"
+      },
+      "publish": {
+        "x": 0.7,
+        "y": 4.44,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Content & learning publication",
+        "body": "Teacher proposals and utility references\nModeration controls visible material",
+        "detail_page": 26,
+        "color": "C2A3FF"
+      },
+      "billing": {
+        "x": 10.5,
+        "y": 4.44,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Teacher plans & entitlements",
+        "body": "Client-owned store billing configuration\nVerified plan state \u2192 publishing allowances",
+        "detail_page": 27,
+        "color": "C2A3FF"
+      },
+      "services": {
+        "x": 0.7,
+        "y": 6.2,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Alerts \u2022 activity \u2022 audit",
+        "body": "Service event \u2192 permitted recipient\nSafe alert \u2192 authorised detail / next action",
+        "detail_page": 23,
+        "color": "62DAE8"
+      },
+      "reports": {
+        "x": 10.5,
+        "y": 6.2,
+        "w": 4.8,
+        "h": 1.48,
+        "title": "Reports & service oversight",
+        "body": "Case / volunteer / referral status\nAgreed programme and sponsor summaries",
+        "detail_page": 46,
+        "color": "8DD8B1"
+      }
+    },
+    "edges": [
+      {
+        "source": "operations",
+        "target": "public",
+        "meaning": "capability branch",
+        "points": [
+          [
+            6.22,
+            5.09
+          ],
+          [
+            5.85,
+            5.09
+          ],
+          [
+            5.85,
+            3.3200000000000003
+          ],
+          [
+            5.5,
+            3.3200000000000003
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "operations",
+        "target": "publish",
+        "meaning": "capability branch",
+        "points": [
+          [
+            6.22,
+            5.09
+          ],
+          [
+            5.85,
+            5.09
+          ],
+          [
+            5.85,
+            5.180000000000001
+          ],
+          [
+            5.5,
+            5.180000000000001
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "operations",
+        "target": "services",
+        "meaning": "capability branch",
+        "points": [
+          [
+            6.22,
+            5.09
+          ],
+          [
+            5.85,
+            5.09
+          ],
+          [
+            5.85,
+            6.94
+          ],
+          [
+            5.5,
+            6.94
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "operations",
+        "target": "sponsor",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.78,
+            5.09
+          ],
+          [
+            10.15,
+            5.09
+          ],
+          [
+            10.15,
+            3.3200000000000003
+          ],
+          [
+            10.5,
+            3.3200000000000003
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "operations",
+        "target": "billing",
+        "meaning": "capability branch",
+        "points": [
+          [
+            9.78,
+            5.09
+          ],
+          [
+            10.15,
+            5.09
+          ],
+          [
+            10.15,
+            5.180000000000001
+          ],
+          [
+            10.5,
+            5.180000000000001
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      },
+      {
+        "source": "reports",
+        "target": "operations",
+        "meaning": "capability branch",
+        "points": [
+          [
+            10.5,
+            6.94
+          ],
+          [
+            10.15,
+            6.94
+          ],
+          [
+            10.15,
+            5.09
+          ],
+          [
+            9.78,
+            5.09
+          ]
+        ],
+        "dashed": false,
+        "directional": true
+      }
+    ]
+  },
+  {
+    "page": 58,
+    "title": "Connection index: what links to what",
+    "nodes": {},
+    "edges": []
+  }
+]
