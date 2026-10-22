@@ -1,0 +1,16 @@
+{
+  "pages": 85,
+  "internal_navigation_links": 792,
+  "missing_native_text": 0,
+  "out_of_bounds": 0,
+  "opening_closing_textbox_overflows": 0,
+  "cover_distinct_app_screens": 3,
+  "global_page_numbers": "passed",
+  "editable_slide_links": "passed",
+  "screenshots": {
+    "unique_sources": 41,
+    "placements": 44,
+    "intentional_cover_reuses": 3
+  },
+  "structure": "Cover \u2192 proposition \u2192 audience \u2192 connected experience \u2192 guide \u2192 user journeys \u2192 full feature design \u2192 service systems \u2192 extension concepts \u2192 delivery \u2192 scope \u2192 next steps"
+}

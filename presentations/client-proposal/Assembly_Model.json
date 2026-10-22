@@ -1,0 +1,512 @@
+[
+  {
+    "page": 1,
+    "source": "new",
+    "source_page": 1,
+    "title": "MRM Digital Community Platform"
+  },
+  {
+    "page": 2,
+    "source": "new",
+    "source_page": 2,
+    "title": "One platform for everyday value and community impact"
+  },
+  {
+    "page": 3,
+    "source": "new",
+    "source_page": 3,
+    "title": "Designed for the whole Muslim community"
+  },
+  {
+    "page": 4,
+    "source": "new",
+    "source_page": 4,
+    "title": "Faith, learning and care strengthen each other"
+  },
+  {
+    "page": 5,
+    "source": "new",
+    "source_page": 5,
+    "title": "Proposal roadmap"
+  },
+  {
+    "page": 6,
+    "source": "bridge",
+    "source_page": 20,
+    "title": "Teacher journey: teaching becomes an optional way to serve"
+  },
+  {
+    "page": 7,
+    "source": "bridge",
+    "source_page": 21,
+    "title": "Seeker journey: support can open a chosen learning path"
+  },
+  {
+    "page": 8,
+    "source": "bridge",
+    "source_page": 5,
+    "title": "A teacher can turn expertise into relevant care"
+  },
+  {
+    "page": 9,
+    "source": "bridge",
+    "source_page": 6,
+    "title": "A volunteer can learn before accepting a new task"
+  },
+  {
+    "page": 10,
+    "source": "bridge",
+    "source_page": 7,
+    "title": "A support conversation can open the right learning path"
+  },
+  {
+    "page": 11,
+    "source": "bridge",
+    "source_page": 8,
+    "title": "A Quran reader can find help for a specific learning goal"
+  },
+  {
+    "page": 12,
+    "source": "bridge",
+    "source_page": 9,
+    "title": "A learner can ask for continuity after a class"
+  },
+  {
+    "page": 13,
+    "source": "bridge",
+    "source_page": 10,
+    "title": "A mentor can refer needs beyond the teaching relationship"
+  },
+  {
+    "page": 14,
+    "source": "bridge",
+    "source_page": 11,
+    "title": "A learning event can invite a separate service role"
+  },
+  {
+    "page": 15,
+    "source": "bridge",
+    "source_page": 12,
+    "title": "An inspiring post can lead to a relevant programme"
+  },
+  {
+    "page": 16,
+    "source": "bridge",
+    "source_page": 13,
+    "title": "Repeated support needs can shape better programmes"
+  },
+  {
+    "page": 17,
+    "source": "bridge",
+    "source_page": 14,
+    "title": "A verified outcome can invite responsible participation"
+  },
+  {
+    "page": 18,
+    "source": "bridge",
+    "source_page": 15,
+    "title": "A local utility can surface a genuinely useful gathering"
+  },
+  {
+    "page": 19,
+    "source": "bridge",
+    "source_page": 16,
+    "title": "A learner can choose a path from participation to contribution"
+  },
+  {
+    "page": 20,
+    "source": "bridge",
+    "source_page": 17,
+    "title": "A volunteer can connect a person to the right specialist"
+  },
+  {
+    "page": 21,
+    "source": "bridge",
+    "source_page": 18,
+    "title": "Public discovery can continue into the same service journey"
+  },
+  {
+    "page": 22,
+    "source": "bridge",
+    "source_page": 19,
+    "title": "Service experience can guide a person\u2019s next development step"
+  },
+  {
+    "page": 23,
+    "source": "original",
+    "source_page": 5,
+    "title": "The shared service foundation"
+  },
+  {
+    "page": 24,
+    "source": "original",
+    "source_page": 6,
+    "title": "Welcome people into the right journey"
+  },
+  {
+    "page": 25,
+    "source": "original",
+    "source_page": 7,
+    "title": "Registration connects identity, consent and participation"
+  },
+  {
+    "page": 26,
+    "source": "original",
+    "source_page": 8,
+    "title": "Sign-in connects the person to authorised records"
+  },
+  {
+    "page": 27,
+    "source": "original",
+    "source_page": 9,
+    "title": "Profile and roles connect trust to the right workspace"
+  },
+  {
+    "page": 28,
+    "source": "original",
+    "source_page": 10,
+    "title": "Home connects daily value to meaningful action"
+  },
+  {
+    "page": 29,
+    "source": "original",
+    "source_page": 11,
+    "title": "Discovery connects a need to an approved service"
+  },
+  {
+    "page": 30,
+    "source": "original",
+    "source_page": 12,
+    "title": "Prayer times connect location, calendar and reminders"
+  },
+  {
+    "page": 31,
+    "source": "original",
+    "source_page": 13,
+    "title": "Prayer tracking connects practice to a private personal record"
+  },
+  {
+    "page": 32,
+    "source": "original",
+    "source_page": 14,
+    "title": "Qibla and mosque discovery connect practice to place"
+  },
+  {
+    "page": 33,
+    "source": "original",
+    "source_page": 15,
+    "title": "Quran connects trusted content to continued learning"
+  },
+  {
+    "page": 34,
+    "source": "original",
+    "source_page": 16,
+    "title": "Digital tasbih connects remembrance to simple, private interaction"
+  },
+  {
+    "page": 35,
+    "source": "original",
+    "source_page": 17,
+    "title": "Dua discovery connects a situation to an approved reference"
+  },
+  {
+    "page": 36,
+    "source": "original",
+    "source_page": 18,
+    "title": "Hadith and references connect content to accountable approval"
+  },
+  {
+    "page": 37,
+    "source": "original",
+    "source_page": 19,
+    "title": "Salah guidance connects learning to daily practice"
+  },
+  {
+    "page": 38,
+    "source": "original",
+    "source_page": 20,
+    "title": "Asma-ul-Husna connects reference content to reflection and learning"
+  },
+  {
+    "page": 39,
+    "source": "original",
+    "source_page": 21,
+    "title": "Ingredient guidance connects search to reviewed information"
+  },
+  {
+    "page": 40,
+    "source": "original",
+    "source_page": 22,
+    "title": "Hijri and Ramadan connect dates, prayer and programmes"
+  },
+  {
+    "page": 41,
+    "source": "original",
+    "source_page": 23,
+    "title": "Zakat, Fitrah and Fidyah estimates connect guidance to responsible referral"
+  },
+  {
+    "page": 42,
+    "source": "original",
+    "source_page": 24,
+    "title": "Help requests connect a personal need to a controlled response"
+  },
+  {
+    "page": 43,
+    "source": "original",
+    "source_page": 25,
+    "title": "Volunteer verification connects willingness to trusted service"
+  },
+  {
+    "page": 44,
+    "source": "original",
+    "source_page": 26,
+    "title": "Gender and nearby visibility connect policy to every result"
+  },
+  {
+    "page": 45,
+    "source": "original",
+    "source_page": 27,
+    "title": "Matching connects a reviewed request to suitable capacity"
+  },
+  {
+    "page": 46,
+    "source": "original",
+    "source_page": 28,
+    "title": "Assignments connect offers, contact, progress and closure"
+  },
+  {
+    "page": 47,
+    "source": "original",
+    "source_page": 29,
+    "title": "Confidential support connects concern to designated expertise"
+  },
+  {
+    "page": 48,
+    "source": "original",
+    "source_page": 30,
+    "title": "Safeguarding connects a concern to a responsible action"
+  },
+  {
+    "page": 49,
+    "source": "original",
+    "source_page": 31,
+    "title": "Case communication connects an assignment to follow-up"
+  },
+  {
+    "page": 50,
+    "source": "original",
+    "source_page": 32,
+    "title": "Zakat referrals connect consent, review and an external authority"
+  },
+  {
+    "page": 51,
+    "source": "original",
+    "source_page": 33,
+    "title": "Recognition connects verified service to continued contribution"
+  },
+  {
+    "page": 52,
+    "source": "original",
+    "source_page": 34,
+    "title": "Teacher approval connects credentials to a governed teaching role"
+  },
+  {
+    "page": 53,
+    "source": "original",
+    "source_page": 35,
+    "title": "Teacher publishing connects expertise to discoverable learning"
+  },
+  {
+    "page": 54,
+    "source": "original",
+    "source_page": 36,
+    "title": "Teacher subscriptions connect revenue to explicit privileges"
+  },
+  {
+    "page": 55,
+    "source": "original",
+    "source_page": 37,
+    "title": "Billing state connects payment events to the correct entitlement"
+  },
+  {
+    "page": 56,
+    "source": "original",
+    "source_page": 38,
+    "title": "Learning connects approved content to participation and return visits"
+  },
+  {
+    "page": 57,
+    "source": "original",
+    "source_page": 39,
+    "title": "Mentorship connects an approved adviser to a defined learning need"
+  },
+  {
+    "page": 58,
+    "source": "original",
+    "source_page": 40,
+    "title": "Scheduling connects learning, volunteer capacity and reminders"
+  },
+  {
+    "page": 59,
+    "source": "original",
+    "source_page": 41,
+    "title": "Community updates connect approved stories to participation"
+  },
+  {
+    "page": 60,
+    "source": "original",
+    "source_page": 42,
+    "title": "Sponsor recognition connects approved support to visible placements"
+  },
+  {
+    "page": 61,
+    "source": "original",
+    "source_page": 43,
+    "title": "The website connects public discovery to the correct app journey"
+  },
+  {
+    "page": 62,
+    "source": "original",
+    "source_page": 44,
+    "title": "Notifications connect a service event to the next safe action"
+  },
+  {
+    "page": 63,
+    "source": "original",
+    "source_page": 45,
+    "title": "Personal activity connects applications and service status over time"
+  },
+  {
+    "page": 64,
+    "source": "original",
+    "source_page": 46,
+    "title": "Administration connects decisions to real operational state"
+  },
+  {
+    "page": 65,
+    "source": "original",
+    "source_page": 47,
+    "title": "Reports connect recorded activity to better decisions"
+  },
+  {
+    "page": 66,
+    "source": "original",
+    "source_page": 48,
+    "title": "Privacy and audit connect policy to every data path"
+  },
+  {
+    "page": 67,
+    "source": "original",
+    "source_page": 49,
+    "title": "Settings connect local choices to reliable, private use"
+  },
+  {
+    "page": 68,
+    "source": "original",
+    "source_page": 50,
+    "title": "Loading, empty and error states connect trust to recovery"
+  },
+  {
+    "page": 69,
+    "source": "original",
+    "source_page": 51,
+    "title": "Empty states connect a valid zero result to a useful next action"
+  },
+  {
+    "page": 70,
+    "source": "original",
+    "source_page": 52,
+    "title": "Error recovery connects service continuity to truthful feedback"
+  },
+  {
+    "page": 71,
+    "source": "original",
+    "source_page": 53,
+    "title": "From a support request to accountable care"
+  },
+  {
+    "page": 72,
+    "source": "original",
+    "source_page": 54,
+    "title": "Learning connects content, entitlement, time and participation"
+  },
+  {
+    "page": 73,
+    "source": "original",
+    "source_page": 55,
+    "title": "Daily tools make the platform valuable between service events"
+  },
+  {
+    "page": 74,
+    "source": "original",
+    "source_page": 56,
+    "title": "One event connects state, notification and accountable follow-up"
+  },
+  {
+    "page": 75,
+    "source": "original",
+    "source_page": 57,
+    "title": "Relief campaigns connect public interest to a defined purpose"
+  },
+  {
+    "page": 76,
+    "source": "original",
+    "source_page": 58,
+    "title": "Campaign detail connects a pledge to explicit provisions"
+  },
+  {
+    "page": 77,
+    "source": "original",
+    "source_page": 59,
+    "title": "Impact information connects an outcome to trustworthy communication"
+  },
+  {
+    "page": 78,
+    "source": "original",
+    "source_page": 60,
+    "title": "Contribution allocation connects intention, purpose and amount"
+  },
+  {
+    "page": 79,
+    "source": "original",
+    "source_page": 61,
+    "title": "Donation payment is separate from teacher billing and zakat referral"
+  },
+  {
+    "page": 80,
+    "source": "original",
+    "source_page": 62,
+    "title": "Delivery follows dependencies, not disconnected screen counts"
+  },
+  {
+    "page": 81,
+    "source": "original",
+    "source_page": 63,
+    "title": "The software and the operating service need clear owners"
+  },
+  {
+    "page": 82,
+    "source": "original",
+    "source_page": 64,
+    "title": "Acceptance should prove the connections actually work"
+  },
+  {
+    "page": 83,
+    "source": "original",
+    "source_page": 65,
+    "title": "Platform priorities and delivery dependencies"
+  },
+  {
+    "page": 84,
+    "source": "new",
+    "source_page": 6,
+    "title": "A clear core scope, with deliberate extension decisions"
+  },
+  {
+    "page": 85,
+    "source": "new",
+    "source_page": 7,
+    "title": "A connected platform MRM can launch and grow"
+  }
+]

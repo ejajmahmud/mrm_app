@@ -1,0 +1,304 @@
+[
+  {
+    "page": 24,
+    "screen": "02",
+    "file": "02-onboarding-iphone-17-pro-max.png",
+    "actual_content": "Onboarding \u00b7 care pillar",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 24,
+    "screen": "03",
+    "file": "03-welcome-iphone-17-pro-max.png",
+    "actual_content": "Welcome and guest entry",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 25,
+    "screen": "04",
+    "file": "04-signup-iphone-17-pro-max.png",
+    "actual_content": "Registration \u00b7 participation tracks",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 26,
+    "screen": "05",
+    "file": "05-login-iphone-17-pro-max.png",
+    "actual_content": "Sign-in form",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 27,
+    "screen": "12",
+    "file": "12-profile-iphone-17-pro-max.png",
+    "actual_content": "Profile / role summary",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 27,
+    "screen": "45",
+    "file": "45-modal_role_picker-iphone-17-pro-max.png",
+    "actual_content": "Role-picker modal",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 28,
+    "screen": "06",
+    "file": "06-home-iphone-17-pro-max.png",
+    "actual_content": "Admin Ops Home",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 28,
+    "screen": "34",
+    "file": "34-role_member-iphone-17-pro-max.png",
+    "actual_content": "Member workspace",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 29,
+    "screen": "09",
+    "file": "09-search-iphone-17-pro-max.png",
+    "actual_content": "Search: utilities and local places",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 30,
+    "screen": "21",
+    "file": "21-utility_waqt-iphone-17-pro-max.png",
+    "actual_content": "Waqt, fasting and prayer windows",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 31,
+    "screen": "22",
+    "file": "22-utility_tracker-iphone-17-pro-max.png",
+    "actual_content": "Private Salah / Qaza tracker",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 32,
+    "screen": "23",
+    "file": "23-utility_qibla-iphone-17-pro-max.png",
+    "actual_content": "Compass simulation + place list",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 33,
+    "screen": "24",
+    "file": "24-utility_quran-iphone-17-pro-max.png",
+    "actual_content": "Al-Fatihah text / reciter controls",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 34,
+    "screen": "25",
+    "file": "25-utility_tasbih-iphone-17-pro-max.png",
+    "actual_content": "Digital tasbih counter",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 35,
+    "screen": "26",
+    "file": "26-utility_dua-iphone-17-pro-max.png",
+    "actual_content": "Dua categories and references",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 37,
+    "screen": "27",
+    "file": "27-utility_salah_guide-iphone-17-pro-max.png",
+    "actual_content": "Salah guide \u00b7 posture 1 of 7",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 38,
+    "screen": "28",
+    "file": "28-utility_sifat-iphone-17-pro-max.png",
+    "actual_content": "Asma-ul-Husna names / meanings",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 39,
+    "screen": "29",
+    "file": "29-utility_halal-iphone-17-pro-max.png",
+    "actual_content": "Ingredient reference + Fitrah concept",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 40,
+    "screen": "39",
+    "file": "39-calendar_almanac-iphone-17-pro-max.png",
+    "actual_content": "Calendar almanac / prayer schedule",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 42,
+    "screen": "31",
+    "file": "31-role_seeker-iphone-17-pro-max.png",
+    "actual_content": "Seeker workspace",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 43,
+    "screen": "33",
+    "file": "33-role_applicant-iphone-17-pro-max.png",
+    "actual_content": "Applicant verification progress",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 45,
+    "screen": "30",
+    "file": "30-role_volunteer-iphone-17-pro-max.png",
+    "actual_content": "Volunteer on-duty workspace",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 49,
+    "screen": "16",
+    "file": "16-chat-iphone-17-pro-max.png",
+    "actual_content": "Caseworker conversation",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 57,
+    "screen": "32",
+    "file": "32-role_teacher-iphone-17-pro-max.png",
+    "actual_content": "Scholar / Mentor roster",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 58,
+    "screen": "14",
+    "file": "14-calendar_booking-iphone-17-pro-max.png",
+    "actual_content": "Halaqa & duty calendar",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 58,
+    "screen": "40",
+    "file": "40-calendar_confirm_modal-iphone-17-pro-max.png",
+    "actual_content": "Slot-confirmation modal",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 59,
+    "screen": "15",
+    "file": "15-feed-iphone-17-pro-max.png",
+    "actual_content": "Dawah & Impact Feed",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 59,
+    "screen": "41",
+    "file": "41-feed_composer-iphone-17-pro-max.png",
+    "actual_content": "Community-post composer",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 62,
+    "screen": "19",
+    "file": "19-notifications-iphone-17-pro-max.png",
+    "actual_content": "In-app notification list",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 65,
+    "screen": "08",
+    "file": "08-dashboard-iphone-17-pro-max.png",
+    "actual_content": "Analytics + calculator concept",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 67,
+    "screen": "13",
+    "file": "13-settings-iphone-17-pro-max.png",
+    "actual_content": "Settings, zone, lock and cache",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 68,
+    "screen": "20",
+    "file": "20-empty_loading_error-iphone-17-pro-max.png",
+    "actual_content": "Loading-state skeleton",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 69,
+    "screen": "43",
+    "file": "43-state_empty-iphone-17-pro-max.png",
+    "actual_content": "Empty-state panel",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 70,
+    "screen": "44",
+    "file": "44-state_error-iphone-17-pro-max.png",
+    "actual_content": "Network-error panel",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 71,
+    "screen": "36",
+    "file": "36-onboarding_slide3-iphone-17-pro-max.png",
+    "actual_content": "Onboarding \u00b7 volunteer pillar",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 75,
+    "screen": "10",
+    "file": "10-catalog-iphone-17-pro-max.png",
+    "actual_content": "Infaq & Relief Campaigns",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 76,
+    "screen": "11",
+    "file": "11-product_detail-iphone-17-pro-max.png",
+    "actual_content": "Campaign detail \u00b7 Overview",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 76,
+    "screen": "37",
+    "file": "37-product_provisions-iphone-17-pro-max.png",
+    "actual_content": "Campaign detail \u00b7 Provisions",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 77,
+    "screen": "38",
+    "file": "38-product_impact-iphone-17-pro-max.png",
+    "actual_content": "Campaign detail \u00b7 sample Impact",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 78,
+    "screen": "17",
+    "file": "17-cart-iphone-17-pro-max.png",
+    "actual_content": "Sadaqah & Infaq Allocation",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 79,
+    "screen": "35",
+    "file": "35-onboarding_slide2-iphone-17-pro-max.png",
+    "actual_content": "Onboarding \u00b7 welfare / aid pillar",
+    "purpose": "feature explanation"
+  },
+  {
+    "page": 1,
+    "screen": "24",
+    "purpose": "intentional cover hero; also explained in the feature section"
+  },
+  {
+    "page": 1,
+    "screen": "30",
+    "purpose": "intentional cover hero; also explained in the feature section"
+  },
+  {
+    "page": 1,
+    "screen": "34",
+    "purpose": "intentional cover hero; also explained in the feature section"
+  }
+]

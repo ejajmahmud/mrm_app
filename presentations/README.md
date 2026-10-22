@@ -1,5 +1,7 @@
 # MRM Digital Community Platform
 
+**Current client-facing edition:** [Complete 85-slide proposal with app-screenshot cover](client-proposal/README.md). Use this edition for presentation.
+
 **Latest connected user journeys:** [96-page presentation, including the new 24-page connection section](strategic-rebuild/user-journeys/README.md).
 
 **Detailed feature rebuild:** [72-page strategic presentation and 52 individual feature maps](strategic-rebuild/README.md), using the corrected 48-image MVP set.

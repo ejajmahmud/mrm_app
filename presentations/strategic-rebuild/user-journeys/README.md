@@ -1,5 +1,7 @@
 # MRM: why people move between features
 
+**Current client-facing edition:** [Complete 85-slide proposal with app-screenshot cover](../../client-proposal/README.md). Use this edition for presentation.
+
 The connection story now starts with a person's goal: **why would someone using one feature choose to use another?** The new 24-page section answers that question with 15 proposed user-value bridges and two complete journeys. The existing 72-page feature explanation is preserved after it in the complete 96-page presentation.
 
 ## Download
