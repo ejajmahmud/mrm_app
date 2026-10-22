@@ -1,0 +1,572 @@
+[
+  {
+    "key": "teacher_support",
+    "title": "A teacher can turn expertise into relevant care",
+    "pair": "Learning centre → Volunteer support",
+    "person": "An approved Quran teacher",
+    "need": "“I teach Quran. I would also like to help someone who needs personal guidance.”",
+    "yes": "Offer volunteering when the teacher wants to give support beyond scheduled classes.",
+    "no": "A teacher may only publish and teach. Volunteering stays optional.",
+    "steps": [
+      [
+        "Teaching profile",
+        "Approved topics and languages establish relevant expertise."
+      ],
+      [
+        "Choose to help",
+        "An invitation offers Quran-related support; the teacher opts in."
+      ],
+      [
+        "Volunteer approval",
+        "MRM checks suitability, training, capacity and case boundaries."
+      ],
+      [
+        "Relevant support match",
+        "The seeker sees approved teaching credentials and accepts the offer."
+      ]
+    ],
+    "carry": "With consent: approved teacher status, verified subject, languages and public profile.",
+    "separate": "Teacher payment does not buy case access. No private student records are shared.",
+    "benefit": "The seeker can judge relevant expertise; the teacher gains a meaningful way to serve. Credentials support confidence, not a guarantee of safety.",
+    "signal": "Eligible teachers opting in → approved volunteers → accepted subject-relevant matches.",
+    "priority": "FIRST",
+    "related": [
+      "volunteer_training",
+      "seeker_class",
+      "mentoring_support"
+    ],
+    "page": 5
+  },
+  {
+    "key": "volunteer_training",
+    "title": "A volunteer can learn before accepting a new task",
+    "pair": "Volunteer support → Learning centre",
+    "person": "A volunteer offered unfamiliar work",
+    "need": "“I want to help, but I need preparation for this kind of support.”",
+    "yes": "Recommend an approved course when a real duty requires a skill or refresher.",
+    "no": "Existing qualified volunteers do not repeat irrelevant classes; no blanket course requirement.",
+    "steps": [
+      [
+        "Readiness gap",
+        "The volunteer or coordinator identifies a specific skill gap."
+      ],
+      [
+        "Relevant training",
+        "Open the approved course with topic and required outcome explained."
+      ],
+      [
+        "Learning evidence",
+        "Record completion; assess readiness separately where needed."
+      ],
+      [
+        "Return to duty",
+        "MRM updates eligibility and offers suitable work after approval."
+      ]
+    ],
+    "carry": "Course reference, completion and separately assessed competencies, with appropriate visibility.",
+    "separate": "Completion alone is not volunteer approval. Private learning notes stay private.",
+    "benefit": "Volunteers get practical preparation; seekers receive help from people approved for the task.",
+    "signal": "Training completion → assessed readiness → eligible task acceptance; monitor support quality.",
+    "priority": "FIRST",
+    "related": [
+      "teacher_support",
+      "learner_volunteer",
+      "capacity_learning"
+    ],
+    "page": 6
+  },
+  {
+    "key": "seeker_class",
+    "title": "A support conversation can open the right learning path",
+    "pair": "Support requests → Learning centre",
+    "person": "A seeker asking for Quran-reading help",
+    "need": "“I need a patient beginner class, in my language, at a time I can attend.”",
+    "yes": "Suggest a class when learning addresses the person’s expressed need and they want it.",
+    "no": "Urgent welfare support continues independently. No class enrolment is required for aid.",
+    "steps": [
+      [
+        "Expressed need",
+        "The assigned helper asks whether learning support would be useful."
+      ],
+      [
+        "Consent to refer",
+        "The seeker selects a goal, language and availability to share."
+      ],
+      [
+        "Suitable programme",
+        "Show approved beginner classes and relevant teacher credentials."
+      ],
+      [
+        "Optional enrolment",
+        "The seeker joins; the helper sees only the agreed referral status."
+      ]
+    ],
+    "carry": "Chosen learning goal, language, availability and referral ID; share only what is needed.",
+    "separate": "No full case narrative, financial circumstances or private chat enters a teacher profile.",
+    "benefit": "The seeker receives a practical next step; teachers reach learners who want the programme.",
+    "signal": "Consented referrals → suitable enrolments → attendance and seeker-reported usefulness.",
+    "priority": "FIRST",
+    "related": [
+      "teacher_support",
+      "learning_mentor",
+      "mentoring_support"
+    ],
+    "page": 7
+  },
+  {
+    "key": "quran_class",
+    "title": "A Quran reader can find help for a specific learning goal",
+    "pair": "Quran utility → Learning centre",
+    "person": "A person using Quran reading tools",
+    "need": "“I can read this passage, but I want help with pronunciation or meaning.”",
+    "yes": "Offer a discreet learning action after the person explicitly asks for help on a topic.",
+    "no": "Reading alone remains complete. Do not infer poor skill or send unsolicited judgments.",
+    "steps": [
+      [
+        "Ask for guidance",
+        "The reader chooses Learn this topic or Get reading help."
+      ],
+      [
+        "Choose learning goal",
+        "They select beginner reading, recitation or an approved topic."
+      ],
+      [
+        "Relevant discovery",
+        "Show approved teachers or programmes matching language and level."
+      ],
+      [
+        "Return to practice",
+        "After learning, a saved link returns to the selected passage."
+      ]
+    ],
+    "carry": "Only the user-selected passage, learning goal and preferred language.",
+    "separate": "No private reading history or worship-tracker record is shared with a teacher.",
+    "benefit": "Daily use can become purposeful learning; teachers receive clearer learner intent.",
+    "signal": "User-initiated learning opens → relevant enrolments → return to chosen practice.",
+    "priority": "NEXT",
+    "related": [
+      "learning_mentor",
+      "seeker_class",
+      "learner_volunteer"
+    ],
+    "page": 8
+  },
+  {
+    "key": "learning_mentor",
+    "title": "A learner can ask for continuity after a class",
+    "pair": "Learning centre → Mentoring",
+    "person": "A learner who wants individual follow-up",
+    "need": "“The class helped. I would like someone to guide my next steps.”",
+    "yes": "Offer mentoring after a learner requests ongoing guidance or a teacher offers approved capacity.",
+    "no": "Class enrolment does not enrol a person into mentoring or open private messaging automatically.",
+    "steps": [
+      [
+        "Request follow-up",
+        "The learner chooses a goal after the programme."
+      ],
+      [
+        "Available mentor",
+        "Show approved mentors relevant to topic, language and permitted boundaries."
+      ],
+      [
+        "Mutual acceptance",
+        "The mentor has capacity; the learner agrees to contact and expectations."
+      ],
+      [
+        "Ongoing guidance",
+        "Open the authorised relationship and optional agreed check-ins."
+      ]
+    ],
+    "carry": "Chosen programme, learning goal and agreed availability; selected progress only with consent.",
+    "separate": "No automatic access to class rosters, aid cases or private worship records.",
+    "benefit": "Learners gain continuity; mentors support people whose needs match their expertise.",
+    "signal": "Follow-up requests → mutually accepted matches → useful agreed check-ins.",
+    "priority": "NEXT",
+    "related": [
+      "seeker_class",
+      "mentoring_support",
+      "teacher_support"
+    ],
+    "page": 9
+  },
+  {
+    "key": "mentoring_support",
+    "title": "A mentor can refer needs beyond the teaching relationship",
+    "pair": "Mentoring → Support requests",
+    "person": "A mentor hearing about a practical difficulty",
+    "need": "“This learner needs help that I am not authorised or qualified to provide.”",
+    "yes": "Offer a supported referral when the person wants help outside the mentor’s remit.",
+    "no": "A mentor does not investigate welfare issues or browse existing private cases.",
+    "steps": [
+      [
+        "Recognise the limit",
+        "The mentor explains the relevant support route without promising an outcome."
+      ],
+      [
+        "Person chooses help",
+        "The learner opens or agrees to a minimal support referral."
+      ],
+      [
+        "MRM triage",
+        "Authorised staff assess urgency, eligibility and the appropriate response."
+      ],
+      [
+        "Bounded follow-up",
+        "The mentor sees only the referral status the person agreed to share."
+      ]
+    ],
+    "carry": "Consent, chosen category, contact preference and minimum agreed context.",
+    "separate": "No blanket case access. Safeguarding disclosures follow the approved escalation policy.",
+    "benefit": "The person reaches qualified help; the mentor can stay within a clear teaching role.",
+    "signal": "Accepted referrals → triaged requests → completed handoffs without excess disclosure.",
+    "priority": "FIRST",
+    "related": [
+      "seeker_class",
+      "teacher_support",
+      "specialist_referral"
+    ],
+    "page": 10
+  },
+  {
+    "key": "event_volunteer",
+    "title": "A learning event can invite a separate service role",
+    "pair": "Learning events → Volunteer duties",
+    "person": "A Halaqa attendee or teacher",
+    "need": "“I am attending this event. Can I help with registration or accessibility?”",
+    "yes": "Offer clearly defined event tasks when organisers need capacity and the person opts in.",
+    "no": "Attending a class never creates a duty. An event helper does not gain case access.",
+    "steps": [
+      [
+        "Event participation",
+        "The person views an approved programme and its support needs."
+      ],
+      [
+        "Choose a duty",
+        "They select a suitable task, time window and required checks."
+      ],
+      [
+        "Coordinator confirms",
+        "Check eligibility and avoid conflict with the person’s class time."
+      ],
+      [
+        "Event service",
+        "Show a separate duty card, instructions and attendance confirmation."
+      ]
+    ],
+    "carry": "Event ID, chosen slot, contact consent and role-specific eligibility.",
+    "separate": "Class attendance and duty acceptance are separate records; no attendee list is exported.",
+    "benefit": "Organisers gain willing capacity; participants have a specific, manageable way to contribute.",
+    "signal": "Opt-in duty requests → conflict-free confirmations → completed event tasks.",
+    "priority": "NEXT",
+    "related": [
+      "learner_volunteer",
+      "volunteer_training",
+      "feed_learning"
+    ],
+    "page": 11
+  },
+  {
+    "key": "feed_learning",
+    "title": "An inspiring post can lead to a relevant programme",
+    "pair": "Community updates → Learning centre",
+    "person": "A reader interested in an approved topic",
+    "need": "“This article is useful. Where can I learn this with a teacher?”",
+    "yes": "Attach a specific approved programme when it genuinely expands on the post.",
+    "no": "Not every post needs a conversion. General announcements can stand alone.",
+    "steps": [
+      [
+        "Relevant approved post",
+        "An author explains a topic with a clear source and audience."
+      ],
+      [
+        "Purposeful invitation",
+        "Read programme details or Meet the teacher explains the next step."
+      ],
+      [
+        "Programme context",
+        "Open topic, level, language, date and access information."
+      ],
+      [
+        "Voluntary participation",
+        "The reader chooses enrolment and can return to the original post."
+      ]
+    ],
+    "carry": "Post ID, topic and linked programme; aggregate referral attribution where agreed.",
+    "separate": "No sensitive-case targeting, fabricated testimonials or automatic enrolment.",
+    "benefit": "Readers can act on genuine interest; teachers reach an appropriate audience.",
+    "signal": "Post-to-programme opens → relevant enrolments; monitor usefulness and opt-outs.",
+    "priority": "NEXT",
+    "related": [
+      "learning_mentor",
+      "quran_class",
+      "consented_story"
+    ],
+    "page": 12
+  },
+  {
+    "key": "capacity_learning",
+    "title": "Repeated support needs can shape better programmes",
+    "pair": "Support operations → Learning planning",
+    "person": "An MRM programme coordinator",
+    "need": "“We repeatedly receive beginner-learning requests in a language with little capacity.”",
+    "yes": "Use restricted aggregate demand to commission a programme for an evidenced gap.",
+    "no": "Do not publish identifiable case examples or infer demand from a tiny sensitive group.",
+    "steps": [
+      [
+        "Aggregate need",
+        "Authorised staff group agreed categories, languages and waiting demand."
+      ],
+      [
+        "Plan a response",
+        "MRM chooses a topic and suitable approved teacher capacity."
+      ],
+      [
+        "Publish programme",
+        "Create a public description without beneficiary identities."
+      ],
+      [
+        "Measure the response",
+        "Track programme capacity, consented referrals and unmet demand."
+      ]
+    ],
+    "carry": "Only approved aggregate demand, programme requirements and non-identifying outcomes.",
+    "separate": "Case files and individual identities never enter a public programme brief.",
+    "benefit": "Learning supply responds to real community needs; support teams gain a useful referral option.",
+    "signal": "Demand gap → commissioned capacity → suitable referrals; review remaining unmet need.",
+    "priority": "NEXT",
+    "related": [
+      "volunteer_training",
+      "seeker_class",
+      "teacher_support"
+    ],
+    "page": 13
+  },
+  {
+    "key": "consented_story",
+    "title": "A verified outcome can invite responsible participation",
+    "pair": "Service outcomes → Community updates",
+    "person": "A beneficiary willing to share an experience",
+    "need": "“I want to thank the programme, but I want control over what people can see.”",
+    "yes": "Publish a verified, consented story with an appropriate participation destination.",
+    "no": "Assistance and recognition never depend on agreeing to publicity.",
+    "steps": [
+      [
+        "Separate invitation",
+        "After service, staff offer an optional story process with no effect on aid."
+      ],
+      [
+        "Specific consent",
+        "Agree wording, images, visibility and the withdrawal process."
+      ],
+      [
+        "Review and publish",
+        "Check accuracy, minimisation and moderation before publication."
+      ],
+      [
+        "Relevant invitation",
+        "Readers can discover a real class or apply to volunteer."
+      ]
+    ],
+    "carry": "Only approved story assets and programme links under the documented consent.",
+    "separate": "No case narrative, identity number or location is copied by default; no guaranteed outcomes.",
+    "benefit": "The storyteller controls disclosure; readers see credible reasons to participate.",
+    "signal": "Consent compliance, correction requests and relevant participation; never reward forced stories.",
+    "priority": "LATER",
+    "related": [
+      "feed_learning",
+      "learner_volunteer",
+      "capacity_learning"
+    ],
+    "page": 14
+  },
+  {
+    "key": "prayer_event",
+    "title": "A local utility can surface a genuinely useful gathering",
+    "pair": "Prayer / nearby places → Learning events",
+    "person": "A person checking prayer times or a mosque",
+    "need": "“Is there an approved beginner Halaqa near this place?”",
+    "yes": "Offer nearby programmes when the person requests local learning information.",
+    "no": "Prayer times remain usable without events, location sharing or an account where supported.",
+    "steps": [
+      [
+        "Local intent",
+        "The person selects a mosque or manually chosen area."
+      ],
+      [
+        "Explore gatherings",
+        "A separate action requests approved programmes nearby."
+      ],
+      [
+        "Check relevance",
+        "Show venue, date, topic, language and accessibility information."
+      ],
+      [
+        "Choose to attend",
+        "The person enrols and optionally enables programme reminders."
+      ]
+    ],
+    "carry": "Selected venue or area and chosen programme; prefer manual area selection when sufficient.",
+    "separate": "No background location tracking or attendance inference from prayer-tool use.",
+    "benefit": "Daily tools create relevant discovery; local organisers reach interested participants.",
+    "signal": "User-requested local discovery → suitable event enrolments → confirmed attendance.",
+    "priority": "LATER",
+    "related": [
+      "event_volunteer",
+      "feed_learning",
+      "quran_class"
+    ],
+    "page": 15
+  },
+  {
+    "key": "learner_volunteer",
+    "title": "A learner can choose a path from participation to contribution",
+    "pair": "Learning participation → Volunteer application",
+    "person": "A learner who wants to give back",
+    "need": "“This helped me. I want to support others when I am ready.”",
+    "yes": "Offer an optional volunteer path after the person expresses interest in contributing.",
+    "no": "Learning progress, religiosity or aid receipt never creates an obligation to volunteer.",
+    "steps": [
+      [
+        "Interest in service",
+        "The learner chooses a suitable contribution area."
+      ],
+      [
+        "Relevant preparation",
+        "Show actual role expectations and optional or required preparation."
+      ],
+      [
+        "Apply and assess",
+        "Reuse consented profile details; complete separate volunteer checks."
+      ],
+      [
+        "Start within limits",
+        "Approved volunteers accept bounded work with coordinator support."
+      ]
+    ],
+    "carry": "Selected interests, contact details and relevant assessed skills with consent.",
+    "separate": "A certificate, course attendance or worship streak does not confer service authority.",
+    "benefit": "Learners gain an achievable contribution route; MRM grows prepared, willing capacity.",
+    "signal": "Interest → applications → approvals → sustained suitable service; watch burden and dropout.",
+    "priority": "NEXT",
+    "related": [
+      "volunteer_training",
+      "event_volunteer",
+      "teacher_support"
+    ],
+    "page": 16
+  },
+  {
+    "key": "specialist_referral",
+    "title": "A volunteer can connect a person to the right specialist",
+    "pair": "Volunteer support → Specialist referral",
+    "person": "A volunteer whose assigned case exceeds their remit",
+    "need": "“I can accompany this person, but their next need requires authorised expertise.”",
+    "yes": "Route through MRM when a need exceeds the volunteer’s approved competence.",
+    "no": "The app never treats a teaching badge as legal, medical or financial accreditation.",
+    "steps": [
+      [
+        "Recognise a boundary",
+        "The volunteer records a minimal referral request on their authorised case."
+      ],
+      [
+        "Staff review",
+        "MRM checks consent, urgency and the appropriate referral pathway."
+      ],
+      [
+        "Approved handoff",
+        "Share necessary information with an authorised partner under policy."
+      ],
+      [
+        "Keep continuity",
+        "Track acknowledgement and next ownership; the volunteer sees permitted status."
+      ]
+    ],
+    "carry": "Minimum agreed referral context, consent and case/reference ID to authorised recipients.",
+    "separate": "No public case broadcast, unapproved partner access or assumption of specialist credentials.",
+    "benefit": "The seeker avoids repeating the story unnecessarily; the volunteer avoids unsafe overreach.",
+    "signal": "Appropriate referrals → acknowledged handoffs → clear next owner and follow-up.",
+    "priority": "FIRST",
+    "related": [
+      "mentoring_support",
+      "seeker_class",
+      "volunteer_training"
+    ],
+    "page": 17
+  },
+  {
+    "key": "website_journey",
+    "title": "Public discovery can continue into the same service journey",
+    "pair": "Website → App participation",
+    "person": "A visitor reading a programme or volunteer opportunity",
+    "need": "“I want this exact programme, not to start again on a generic home screen.”",
+    "yes": "Preserve the public destination across install, sign-in and eligibility checks where feasible.",
+    "no": "Public information stays accessible; installation is not needed just to read it.",
+    "steps": [
+      [
+        "Specific public page",
+        "The visitor chooses a programme, volunteer role or support route."
+      ],
+      [
+        "Keep the destination",
+        "Carry a non-sensitive link or short reference through entry."
+      ],
+      [
+        "Required checks only",
+        "Sign in or apply when the selected action requires it."
+      ],
+      [
+        "Resume the action",
+        "Return to the same programme or application with current availability."
+      ]
+    ],
+    "carry": "Public destination ID and safe campaign/source reference; no private case data in URLs.",
+    "separate": "No secrets in deep links. Expired programmes receive an honest alternative.",
+    "benefit": "Visitors keep their intent; MRM loses fewer people between discovery and participation.",
+    "signal": "Destination retained → intended action completed; test installation and expired-link paths.",
+    "priority": "FIRST",
+    "related": [
+      "feed_learning",
+      "learner_volunteer",
+      "seeker_class"
+    ],
+    "page": 18
+  },
+  {
+    "key": "recognition_growth",
+    "title": "Service experience can guide a person’s next development step",
+    "pair": "Volunteer review → Learning development",
+    "person": "A volunteer reflecting with a coordinator",
+    "need": "“What did I do well, and what training would help me contribute better?”",
+    "yes": "Use an agreed private review to recommend learning or future duties.",
+    "no": "Do not convert volunteer hours or popularity into teaching approval or public expertise claims.",
+    "steps": [
+      [
+        "Review service",
+        "The volunteer and authorised coordinator reflect on a completed duty."
+      ],
+      [
+        "Agree development",
+        "Select a specific skill goal without copying beneficiary details."
+      ],
+      [
+        "Choose learning",
+        "Offer an approved course or mentor relevant to that goal."
+      ],
+      [
+        "Assess progression",
+        "Review learning and suitability before any new responsibility."
+      ]
+    ],
+    "carry": "Agreed skill goal and restricted competency evidence; public recognition only by policy.",
+    "separate": "No beneficiary story or private feedback on public profiles; no automatic teacher badge.",
+    "benefit": "Volunteers see a development path; MRM builds capacity with evidence rather than rank.",
+    "signal": "Agreed plans → useful training → assessed competence; track wellbeing as well as retention.",
+    "priority": "LATER",
+    "related": [
+      "volunteer_training",
+      "learner_volunteer",
+      "learning_mentor"
+    ],
+    "page": 19
+  }
+]

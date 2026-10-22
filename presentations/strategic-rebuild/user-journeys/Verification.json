@@ -1,0 +1,36 @@
+{
+  "MRM_User_Value_Bridges_24_Pages": {
+    "pages": 24,
+    "internal_links": 60,
+    "missing_text": 0,
+    "out_of_bounds": 0,
+    "new_section_textbox_overflows": 0
+  },
+  "MRM_Complete_Connected_Platform_96_Pages": {
+    "pages": 96,
+    "internal_links": 904,
+    "missing_text": 0,
+    "out_of_bounds": 0,
+    "new_section_textbox_overflows": 0
+  },
+  "preserved_original": {
+    "pages_unchanged": 72,
+    "unique_media_files": 48,
+    "added_screenshot_uses": 0
+  },
+  "product_model": {
+    "proposed_bridges": 15,
+    "required_fields": [
+      "person",
+      "need",
+      "yes",
+      "no",
+      "steps",
+      "carry",
+      "separate",
+      "benefit",
+      "signal"
+    ],
+    "status": "Design proposals, not verified MVP behaviour"
+  }
+}

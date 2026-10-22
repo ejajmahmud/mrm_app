@@ -1,5 +1,7 @@
 # MRM: detailed feature-to-feature strategy and MVP presentation
 
+**Latest revision:** [96-page complete presentation with 15 user-value bridges](user-journeys/README.md). The new section explains why a person moves between features, how the handoff works and what both sides gain.
+
 A rebuilt **72-page presentation** supported by **52 individual feature-connection maps**. The platform serves **all Muslims**, with specialised MRM revert-support services.
 
 Every feature map identifies concrete connected capabilities, names the handoffs, explains the value of the connection and states what should be verified. The overall and end-to-end diagrams connect actual features; they do not use MRM as a generic central hub.

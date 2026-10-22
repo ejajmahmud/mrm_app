@@ -1,6 +1,8 @@
 # MRM Digital Community Platform
 
-**Latest detailed rebuild:** [72-page strategic presentation and 52 individual feature maps](strategic-rebuild/README.md), using the corrected 48-image MVP set.
+**Latest connected user journeys:** [96-page presentation, including the new 24-page connection section](strategic-rebuild/user-journeys/README.md).
+
+**Detailed feature rebuild:** [72-page strategic presentation and 52 individual feature maps](strategic-rebuild/README.md), using the corrected 48-image MVP set.
 
 
 **Updated edition:** [58-page deck with eight feature-connectivity mind maps](connectivity/README.md). Includes editable PowerPoint, PDF, PNG and SVG diagrams.
